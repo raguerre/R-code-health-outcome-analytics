@@ -1,0 +1,1288 @@
+"","Project Number","Baseline Year","Operation Name","Long.op.name","objectives","objectives_indicators","objectives_units","health","malaria","covid","calidad","acceso","morbilidad","eficiencia","equidad"
+"1","AR-L1007",2009,NA,"AR-L1007 - NA","+Mortalidad infantil en la Provincia de Buenos Aires reducida","Mortalidad de menores de 1 año en la Provincia de Buenos Aires","muertes por mil nacidos vivos",TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+"2","AR-L1020",2009,NA,"AR-L1020 - NA","+Hospitalizaciones evitables relacionadas con hipertensión y diabetes reducidas","Hospitalizaciones relacionadas con hipertensión arterial y diabetes.","Porcentaje",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"3","AR-L1118",2011,NA,"AR-L1118 - NA","+Acceso a la oferta de estimulación temprana para niños y niñas en situación de vulnerabilidad incrementado.
++Niños y niñas alcanzan un nivel mínimo adecuado de competencias cognitivas y socioemocionales a los 5 años de edad.","Niños de 2 a 4 años de edad del primer quintil de ingresos que asiste a un Centro de Desarrollo Infantil o a un Jardín de Infantes.
+Niños y niñas de entre 2 y 5 años de edad que alcanzan un nivel mínimo en una prueba estandarizada de desarrollo cognitivo y socio-emocional.","Porcentaje
+Porcentaje",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+"4","AR-L1142",2007,"Multiphase Primary Health Care Program for Managing Chronic Non-communicable Dis","AR-L1142 - Multiphase Primary Health Care Program for Managing Chronic Non-communicable Dis","+Disminución de tasa de mortalidad por eventos cardio y cerebrovasculares","Tasa de Mortalidad por eventos cardiovasculares y cerebrovasculares
+Tasa de Mortalidad ajustada por edad por eventos cardiovasculares","Porcentaje
+tasa",TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+"5","AR-L1196",2015,"MULTIPHASE PRIMARY HEALTH CARE PROGRAM FOR MANAGING CHRONIC NONCOMMUNICABLE DISEASES","AR-L1196 - MULTIPHASE PRIMARY HEALTH CARE PROGRAM FOR MANAGING CHRONIC NONCOMMUNICABLE DISEASES","+Contribuir a la reducción de la morbimortalidad por enfermedades crónicas no transmisibles en Argentina, con énfasis en la población con cobertura pública exclusiva","Personas entre 50 y 75 años con diagnóstico de lesiones precancerosas o cáncer colorrectal estadio temprano , sobre el total de personas tamizadas del mismo rango etario con diagnóstico de lesiones precancerosas o cáncer colorrectal .
+Hipertensos entre 40 y 65 años con tratamiento farmacológico, sobre el total de hipertensos del mismo rango etario
+Mujeres entre 30 y 64 años con diagnóstico de lesión precancerosa de alto grado o cáncer cervicouteríno en estadio temprano , sobre el estimado del total de mujeres del mismo rango etario con lesiones precancerosas y cáncer cervicouterino .
+Tiempo promedio que transcurre desde la sospecha diagnóstica de cáncer hasta el inicio del tratamiento definitivo.
+Diabéticos entre 40 y 65 años con tratamiento farmacológico, sobre el total de diabéticos del mismo rango etario.
+Personas de entre 40 y 65 años que utilizaron servicios de salud en el último mes, sobre el total de personas en el mismo rango etario y periodo de tiempo que utilizaron dichos servicios o que no lo hicieron habiendo tenido síntomas o problemas de salud
+Mujeres entre 50 y 69 años con diagnóstico de cáncer de mama en estadio temprano , sobre el total de mujeres registradas del mismo rango etario con diagnóstico de cáncer de mama.","Porcentaje
+Porcentaje
+Porcentaje
+Días
+Porcentaje
+Porcentaje
+Porcentaje",TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+"6","AR-L1254",2012,NA,"AR-L1254 - NA","+Mejora en indicadores de desarrollo infantil","Niños de 0 a 48 meses de edad que asisten a EPI fortalecidos por el Programa y logran un nivel de desarrollo esperable para su edad","%",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"7","AR-L1302",2017,NA,"AR-L1302 - NA","+Aumento del empleo registrado en el sector formal
++Aumento del porcentaje de jóvenes que aprueban las materias según el plan de estudios
++Mayor ahorro en transporte como porcentaje del gasto no alimentario","Titulares de Hacemos Futuro que acceden a un empleo registrado en el sector formal
+Beneficiarios de Becas Progresar en el nivel superior que aprueban al menos 50% de las materias requeridas según su plan de estudios
+Ahorro promedio en gastos de transporte debido a la Tarifa Social como porcentaje del gasto no alimentario de los hogares de menores ingresos","%
+%
+%",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"8","AR-L1309",2017,NA,"AR-L1309 - NA","+Aumento del empleo registrado en el sector formal
++Mayor ahorro en transporte como porcentaje del gasto no alimentario
++Aumento del porcentaje de jóvenes que aprueban las materias según el plan de estudios","Titulares de Hacemos Futuro que acceden a un empleo registrado en el sector formal
+Ahorro promedio en gastos de transporte debido a la Tarifa Social como porcentaje del gasto no alimentario de los hogares de menores ingresos
+Beneficiarios de Becas Progresar en el nivel superior que aprueban al menos 50% de las materias requeridas según su plan de estudios","%
+%
+%",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"9","AR-L1326",2022,"Immediate Public Health Response Project en the context of the COVID-19 Pandemic to contain, control and mitigate its effect in health service provision in Argentina","AR-L1326 - Immediate Public Health Response Project en the context of the COVID-19 Pandemic to contain, control and mitigate its effect in health service provision in Argentina","+Reducción de la morbilidad y mortalidad por COVID-19
++Efectos indirectos de la pandemia sobre la salud mitigados","Muertes por COVID-19
+Casos confirmados de COVID-19
+Casos confirmados de COVID-19
+Porcentaje de personas con cobertura efectiva de salud dentro de la población con cobertura pública exclusiva en salud
+Muertes por COVID-19","Número
+Número
+Número
+Porcentaje
+Número",TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+"10","AR-L1331",2020,NA,"AR-L1331 - NA","+Contribuir a asegurar niveles mínimos de calidad de vida de las personas vulnerables frente a la crisis causada por la pandemia de COVID-19.","Familias titulares de la Tarjeta Alimentar protegidas de caer en pobreza extrema en 2021","Porcentaje",FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+"11","AR-L1340",2021,"Program for Strengthening and Integration of Health Networks in the Province of Buenos Aires - PROFIR II","AR-L1340 - Program for Strengthening and Integration of Health Networks in the Province of Buenos Aires - PROFIR II","+Mejorar la accesibilidad y la cobertura efectiva de los servicios públicos de salud para la población de la PBA","Correspondencia de triage de radio-operador con triage médico
+Porcentaje de personas con cobertura efectiva básica en los 52 municipios del interior de la provincia
+Promedio anual del porcentaje mensual de ocupación de camas de terapia intensiva por COVID-19
+Porcentaje de personas cronificadas externadas de instituiciones de salud mental (hospitales monovalentes)","% de correspondencia de los triage realizados
+% de personas
+% de camas
+% de pacientes",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"12","AR-L1358",2020,"First Individual Operation of the Program for the Integration of the Argentine Health System","AR-L1358 - First Individual Operation of the Program for the Integration of the Argentine Health System","+Contribuir a la reducción de la mortalidad prematura y al cierre de brechas entre jurisdicciones argentinas en las líneas de cuidado priorizadas.","AVPP por enfermedades hipertensivas (HTA)
+AVPP por cáncer cérvico uterino (CCU)
+Coeficiente de variación (CV) de la distribución provincial de los AVPP por diabetes mellitus
+AVPP por trastornos mentales y del comportamiento (TM)
+CV de la distribución provincial de los AVPP por TM
+CV de la distribución provincial de los AVPP por HTA
+Años de vida potencial perdidos (AVPP) por diabetes mellitus
+CV de la distribución provincial de los AVPP por causa CCU","Años cada 100.000 habitantes
+Años cada 100.000 habitantes
+Sin unidad
+Años cada 100.000 habitantes
+Sin unidad
+Sin unidad
+Años cada 100.000 habitantes
+Sin unidad",TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+"13","AR-L1366",2023,NA,"AR-L1366 - NA","+Reducir los niveles de exclusión social de las PCD","Tasa de alfabetización en PCD
+Tasa de empleo de las PCD","Porcentaje
+Porcentaje",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"14","BH-G0004",2021,NA,"BH-G0004 - NA","+To support the strengthening of The Bahamas health system to meet the population’s health needs","Percentage of hypertensive patiens with blood pressure controlled
+Percentage of diabetes patients with blood glucose controlled.
+Rate of ambulatory care sensitive hospitalizations","Percentage
+Percentage
+Rate",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"15","BH-L1030",2012,NA,"BH-L1030 - NA","+Human capital of the poorest families improved","Body Mass Index Grade 1
+Body Mass Index Grade 6
+Body Mass Index Grade 10
+Secondary graduation rates for the 16-19 age group among beneficiaries
+% of beneficiaries in lowest decile
+Narrowing of poverty gap","Kg/m2
+Kg/m2
+Kg/m2
+Percentage
+Percentage
+Percentage",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"16","BH-L1053",2021,"Programme to Support the Health System Strengthening of The Bahamas","BH-L1053 - Programme to Support the Health System Strengthening of The Bahamas","+To support the strengthening of The Bahamas health system to meet the population’s health needs","Percentage of hypertensive patiens with blood pressure controlled
+Mortality rate of cardiovascular
+disease
+Percentage of diabetes patients with blood glucose controlled.
+Mortality rate of cardiovascular
+disease
+Rate of ambulatory care sensitive hospitalizations","Percentage
+Mortality rate per 100,000
+Percentage
+Mortality rate per 100,000
+Rate",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"17","BH-L1055",2020,"Program to support the Health Sector to Contain and Control Coronavirus and to Mitigate its effects in Service Provision","BH-L1055 - Program to support the Health Sector to Contain and Control Coronavirus and to Mitigate its effects in Service Provision","+Help reduce the morbidity and mortality caused by COVID-19 and mitigate indirect impacts of the epidemic on health","Confirmed cases of COVID-19
+Number of Deaths from Covid-19","Number of patients with Covid-19
+Number of deaths",TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+"18","BL-L1036",2020,"Program to Support the Health Sector to Contain and Control Coronavirus and to Mitigate its Effect on Service Provision","BL-L1036 - Program to Support the Health Sector to Contain and Control Coronavirus and to Mitigate its Effect on Service Provision","+Contribute to the reduction of the morbidity and mortality caused by COVID-19 and to mitigate other indirect impacts of the pandemic","Confirmed cases of COVID-19
+Number of Deaths from Covid-19","Number
+Number",TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+"19","BL-U0001",2020,NA,"BL-U0001 - NA","+Contribute to the reduction of the morbidity and mortality caused by COVID-19 and to mitigate indirect impacts of the pandemic.","Number of Deaths from Covid-19
+Confirmed cases of COVID-19","Number
+Number",TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+"20","BO-L1064",2014,NA,"BO-L1064 - NA","+Contribuir a mejorar en forma sostenible y con pertinencia cultural, el desarrollo cognitivo, socio-emocional y físico de niñas y niños bolivianos
++Desarrollo cognitivo y fisico de niños/as bolivianos menores de 4 años.","Porcentaje de niños/as rezagados en desarrollo cognitivo (test psicomotor y de lenguaje) (en municipios intervenidos)
+Niños menores de 4 años con desnutrición crónica en municipios intervenidos.
+Niñas menores de 4 años rezagadas en el desarrollo cognitivo (test cognitivo y de lenguaje segun modulo de comunicacion del ASQ) en municipios intervenidos.
+Niñas menores de 4 años con desnutrición crónica en municipios intervenidos.
+Niñas menores de 4 años rezagadas en el desarrollo cognitivo (test cognitivo y de lenguaje segun modulo de comunicacion del ASQ) en municipios intervenidos.
+Niños menores de 4 años rezagados en el desarrollo cognitivo (test cognitivo y de lenguaje segun modulo de comunicacion del ASQ) en municipios intervenidos.
+Niñas menores de 4 años con desnutrición crónica en municipios intervenidos.
+Porcentaje de niños/as con desnutrición crónica (en municipios intervenidos)","%
+%
+%
+%
+%
+%
+%
+%",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"21","BO-L1067",2008,"Strengthening of Integrated Health Networks in the Department of Potosi","BO-L1067 - Strengthening of Integrated Health Networks in the Department of Potosi","+Mortalidad materno infantil en el Departamento de Potosi reducida","Tasa de mortalidad infantil por 1000 NV
+Tasa de Mortalidad neonatal
+Razon de Mortalidad materna en el Departamento de Potosi","por 1000 NV
+por 1000 NV
+Razon",TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+"22","BO-L1070",2012,NA,"BO-L1070 - NA","+Calidad y cobertura de registros de actuales y futuros beneficiarios de programas sociales mejorado, con el propósito final de mejorar la focalizacion de programas sociales","Población pobre entre los beneficiarios de los programamas sociales del PEEP
+Población pobre entre los beneficiarios de los programas sociales del PEEP
+Población pobre entre los beneficiarios del censo muestral","%
+%
+%",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+"23","BO-L1078",2011,"Improved access to health services in Bolivia","BO-L1078 - Improved access to health services in Bolivia","+Reducción de la mortalidad materno - infantil en las redes de atención en salud en los Departamentos de La Paz y Potosí","Mortalidad Neonatal temprana por cada 1,000 Nacidos Vivos en el Departamento de La Paz
+Mortalidad Infantil por cada 1,000 Nacidos Vivos en el Departamento de La Paz
+Mortalidad Infanti por cada 1,000 Nacidos Vivos en el Departamento de Potosí
+Mortalidad Neonatal temprana por cada 1,000 Nacidos Vivos en el Departamento de Potosí","Tasa por 1,000 NV
+Tasa por 1,000 NV
+Tasa por 1,000 NV
+Tasa por 1,000 NV",TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+"24","BO-L1082",2013,"Improved Access to Health Services El Alto Bolivia","BO-L1082 - Improved Access to Health Services El Alto Bolivia","+Reducción de la mortalidad: i) neonatal; ii) materna; y ii) por cáncer cervico-uterino en El Alto","1.3Mortalidad por CaCU (Cáncer Cérvico - Uterino) por 100.000 mujeres entre 30 y 49 años de edad en el departamento de La Paz
+1.1 Mortalidad neonatal precoz hospitalaria por 1.000 NV* (<7 días) en el municipio El Alto
+1.2 Mortalidad materna hospitalaria por 100.000 NV en el municipio El Alto","0/000
+0/00
+0/000",TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+"25","BO-L1198",2011,"Program to improve accessibility to maternal and Neonatal health services in Bolivia","BO-L1198 - Program to improve accessibility to maternal and Neonatal health services in Bolivia","+Morbi-mortalidad materna y neonatal reducida","1. Razón de mortalidad materna en el país
+2. Tasa de mortalidad neonatal en el país","Razón
+tasa",TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+"26","BO-L1216",2020,NA,"BO-L1216 - NA","+Contribuir a asegurar niveles mínimos de calidad de vida de las personas vulnerables frente a la crisis causada por el COVID-19.","Nivel de ingreso de familias vulnerables (tres quintiles más bajos) respecto a nivel de ingreso de familias no vulnerables (dos quintiles más altos) 12 meses después de inicio de la crisis.
+Casos COVID-19 confirmados.
+Cobertura de Renta Dignidad entre las personas indígenas mayores de 60 años que no reciben pensión contributiva.
+Nivel de ingreso de familias vulnerables (tres quintiles más bajos) respecto a nivel de ingreso de familias no vulnerables (dos quintiles más altos) 12 meses después de inicio de la crisis.
+Cobertura de Renta Dignidad entre las personas indígenas mayores de 60 años que no reciben pensión contributiva.","%
+#
+%
+%
+%",FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+"27","BO-L1219",2021,NA,"BO-L1219 - NA","+Contribuir a asegurar niveles mínimos de calidad de vida de las personas vulnerables frente a la crisis causada por la COVID-19, reducir la morbi-mortalidad causadas por la COVID-19 y a mitigar los efectos indirectos de la pandemia sobre la salud","Nivel de ingreso de familias vulnerables (tres quintiles más bajos) respecto a nivel de ingreso de familias no vulnerables (dos quintiles más altos) 24 meses después de inicio de la crisis.
+Nuevos casos anuales de COVID-19 en áreas de intervención (municipio de El Alto y departamentos de Pando, Beni y Potosí).","Porcentaje (%)
+Número de casos (#)",TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+"28","BR-L1044",2010,"Health Modernization and Humanization Program","BR-L1044 - Health Modernization and Humanization Program","+Melhora das condições de saúde da população de São Bernardo do Campo.","Taxa de mortalidade infantil
+Taxa anual de internação hospitalar por diabetes mellitus e suas complicações na população de 30 anos a 59 anos de idade residentes em SBC.
+Taxa anual de internação hospitalar por acidente vascular cerebral na população com de 30 anos a 59 anos de idade residente em SBC.
+Nascidos vivos de mães residentes em São Bernardo do Campo com 07 ou mais consultas pré-natais.
+Taxa anual de internação hospitalar por diabetes mellitus e suas complicações na população de 30 anos ou mais de idade residentes em São Bernardo do Campo.
+Taxa anual de internação hospitalar por acidente vascular cerebral na população com 40 anos ou mais de idade residente em São Bernardo do Campo.","Óbitos menores de 1 ano de idade/ 1.000 nascidos vivos
+Internações/ 10.000 hab
+Internações/ 10.000 hab
+%
+%
+%",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"29","BR-L1053",2010,NA,"BR-L1053 - NA","+Condiciones de vida de niños, adolescentes y jóvenes beneficiarios del Estado de Ceara mejoradas","Niños menores de cinco años con desnutrición crónica.
+Niños con desarrollo motor adecuado para la edad
+Niños con desarrollo social adecuado para la edad
+Niños con desarrollo lenguaje adecuado para la edad
+Reincidencia de jovenes beneficiarios en conflictos con la ley en los ultimos 20 anos","%
+%
+%
+%
+%",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"30","BR-L1122",2006,NA,"BR-L1122 - NA","+Comportamientos de riesgo de la poblacion entre 15 y 29 años de edad en la ciudad de Fortaleza reducidos.
++Comportamientos de riesgo de la poblacion entre 15 y 29
+ años de edad en la ciudad de Fortaleza reducidos.","Embarazos no planificados (entre jóvenes entre 15 y 29 años de edad)
+Desempleo (entre jóvenes entre 15 y 29 años de edad)
+Deserción escolar (entre jóvenes entre 15 y 24 años de edad)
+Participacion comunitaria (entre jovenes entre 15 y 24 anos de edad)
+Embarazos no planificados (entre jóvenes entre 15 y 29 años de edad)
+Participacion comunitaria (entre jovenes entre 15 y 24 anos de edad)
+Desempleo (entre jóvenes entre 15 y 29 años de edad)
+Deserción escolar (entre jóvenes entre 15 y 24 años de edad)","%
+%
+%
+%
+%
+%
+%
+%",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"31","BR-L1177",2009,"Expansion and Strengthening of Specialized Health Services in Ceará","BR-L1177 - Expansion and Strengthening of Specialized Health Services in Ceará","+Condiciones de salud de la poblacion de Ceará mejoradas, mediante la expansion del acceso y la mejora de la calidad de los servicios especializados de salud.","Tasa de Razao de mortalidade materna en Ceará
+Coeficiente de Mortalidad Infantil Neonatal en la Macrorregion Sobral
+Porcentaje de casos de Cancer de Mama detectados en estadios III y IV en Estado de Ceará.","P/100.000
+P/100.000
+%",TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+"32","BR-L1287",2013,NA,"BR-L1287 - NA","+Condições de vida dos jovens que vivem em favelas com Unidades de Polícia Pacificadora (UPP's) melhoradas.","Diferença entre a incidencia de gravidez em jovens de favelas atendidas pelo Programa e em jovenes de favelas não atendidas pelo programa.
+Diferença entre a taxa de inatividade dos jovens atendidos pelo programa e dos jovens de favelas não atendidas pelo programa.
+Diferença entre a escala de autoeficiencia percebida dos jovens de favelas atendidas pelo programa e dos jovens de favelas não atendidas pelo programa
+Porcentagem de entrevistados nas areas de intervenção do programa que informam estar satisfeitos com o comportamento e participação dos jovens na comunidade.","%
+%
+%
+%",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"33","BR-L1372",2016,NA,"BR-L1372 - NA","+Condicao de vida das familias mediante acoes do Governo melhoradas","Famílias com 24 meses ou mais no programa com acesso e uso de serviços em educação, saúde e documentação civil básica, melhorados
+Familias com indice melhorado de habilitação psicosocial
+Famílias no programa com 24 meses ou mais de acompanhamento, que estão desenvolvendo iniciativas de habilitação social por conta própria
+Familias com acesso e uso dos servicos em educacao, saude e desenvolvimento social produtivo melhorados
+Familias abordadas pelo programa ao concluir 24 meses de acompanhamento, que deram continuidade a sua propria habilitacao social","%
+%
+%
+%
+%",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"34","BR-L1376",2014,"Strengthening health management in the State of São Paulo","BR-L1376 - Strengthening health management in the State of São Paulo","+Condições de Saúde da População do Estado de São Paulo melhoradas","Mortalidade por enfermidades crônicas não transmissiveis por 100.000 habitantes
+Mortes prematuras por acidentes cardiovasculalres
+Mortes prematuras por diabetes mellitus
+Taxa de internações sensíveis à atenção básica
+Mortalidade por enfermidades crônicas não transmissiveis por 100.000 habitantes","percentual
+percentual
+percentual
+percentual
+por 100.000 hab",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"35","BR-L1378",2012,"Strengthening Social Inclusion and Health Services Networks PROREDES","BR-L1378 - Strengthening Social Inclusion and Health Services Networks PROREDES","+Condições de Saúde da População do Estado de Sergipe melhoradas","Mortes prematuras por acidentes cerebro vasculares (30-69 anos)
+Taxa de internações por hospitalizações sensíveis à atenção básica
+Razão de mortalidade materna por causas obstétricas diretas
+Mortes prematuras por Diabetes Mellitus (30-69 anos)
+Mortalidade por câncer cérvico uterino","mortes
+hospitalizações
+mortes maternas
+mortes
+mortes",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"36","BR-L1389",2015,"Strengthening the Unified Health System in Salvador","BR-L1389 - Strengthening the Unified Health System in Salvador","+Condições de Saúde da População do Estado da Bahia melhoradas","Taxa de mortalidade prematura por Diabetes Mellitus
+Proporção de hospitalizações por condições sensíveis a atenção básica
+Taxa de mortalidade prematura por Diabetes Mellitus","100.00 habitantes
+percentual
+percentual",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"37","BR-L1406",2010,NA,"BR-L1406 - NA","+Redução de iniquidade e melhora de serviços públicos, mediante o apoio para o alcance de metas de cobertura escolar.
++Condição de vida dos adolescentes e jovens beneficiarios da assistencia social melhoradas","Índice de Vulnerabilidad Social (IVS) de Ceará
+Índice de Vulnerabilidad Social (IVS) de Ceará","Percentage
+percentual",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"38","BR-L1408",2014,"Program for the Expansion and Improvement of Specialized Health Care in the State of Ceará II – PROEXMAES II","BR-L1408 - Program for the Expansion and Improvement of Specialized Health Care in the State of Ceará II – PROEXMAES II","+Contribuir para a melhoria das condições de saúde da população do Ceará.","1.2 Taxa de mortalidade prematura por Acidente Vascular Cerebral (AVC).
+1.3 Porcentagem de nascidos vivos com baixo peso ao nascer <2.500 g.
+1.1 Taxa de mortalidade prematura por Diabetes Mellitus (DM)
+1.1 Taxa de mortalidade prematura por Diabetes Mellitus (DM)","por 100.000 habitantes
+%
+por 100.00 habitantes
+por 100.000 habitantes",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"39","BR-L1414",2017,"Program for Strengthening Social Inclusion and Healthcare Networks – PROREDES Fortaleza","BR-L1414 - Program for Strengthening Social Inclusion and Healthcare Networks – PROREDES Fortaleza","+Contribuir a mejorar las condiciones de salud de la población general y reducir las conductas de riesgo de jóvenes vulnerables del Municipio de Fortaleza (MF).
++Comportamientos de riesgo de la poblacion entre 15 y 29 años de edad en la ciudad de Fortaleza reducidos.","Proporción de hospitalizaciones por causas seleccionadas sensibles a la Atención Básica (AB).
+Tasa de mortalidad precoz (30-69 años) por diabetes mellitus y sus complicaciones.
+% de jóvenes que han participado en programas de la CEPPJ en el último año y que tienen menos de 2 conductas de riesgo.
+Tasa de mortalidad precoz (30-59 años) por diabetes mellitus y sus complicaciones.
+Porcentaje de jóvenes de 16 a 29 años certificados en los cursos professionales realizados por la Política de Juventud que logran un trabajo en un período de 1 año después de su conclusión
+Tasa de mortalidad precoz (30-69 años) por accidente cerebrovascular.
+Tasa de empleo de los jóvenes entre 25 y 29 años que culminaron un curso profesional en la RED CUCA un año después de concluido el curso.
+Tasa de mortalidad precoz (30-59 años) por diabetes mellitus y sus complicaciones.
+Porcentaje de jóvenes de 16 y 17 años que siguen matriculados en la escuela un año después de haberse inscrito en el CUCA.
+Tasa de mortalidad precoz (30-59 años) por accidente cerebrovascular.
+Proporción de hospitalizaciones por causas seleccionadas sensibles a la Atención Básica (AB).
+Porcentaje de jóvenes de 16 y 17 años que siguen matriculados en la escuela un año después de haberse inscrito en el CUCA.
+Tasa de mortalidad precoz (30-59 años) por accidente cerebrovascular.
+Porcentaje de jóvenes de 15 a 29 años certificados en los cursos professionales realizados por la Política de Juventud que logran un trabajo en un período de 1 año después de su conclusión
+Tasa de mortalidad precoz (30-59 años) por diabetes mellitus y sus complicaciones.
+Porcentaje de jóvenes beneficiados con crédito que siguen en actividades comerciales después de 1 año de recibir el crédito
+Tasa de empleo de los jóvenes entre 25 y 29 años que culminaron un curso profesional en la RED CUCA un año después de concluido el curso.
+Proporción de hospitalizaciones por causas seleccionadas sensibles a la Atención Básica (AB).
+% de jóvenes que han participado en programas de la CEPPJ en el último año y que tienen menos de 2 conductas de riesgo.
+Tasa de mortalidad precoz (30-59 años) por accidente cerebrovascular.","%
+por 100.000 hab
+%
+%
+%
+por 10.000 hab
+%
+por 100.000 hab
+%
+por 10.000 hab
+%
+%
+%
+%
+por 100.000 hab
+%
+%
+%
+%
+por 100.000 hab",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"40","BR-L1415",2015,"Strengthening Unified Health System in São Bernardo do Campo","BR-L1415 - Strengthening Unified Health System in São Bernardo do Campo","+Condições de Saúde da população de SBC melhoradas","Taxa de mortalidade precoce (30-59 anos) diabetes mellitus e suas complicações na população residente em SBC.
+Taxa de mortalidade precoce (30-59 anos) por doença cerebrovascular na população residente em SBC.
+Proporção de internações por causas selecionadas sensíveis à Atenção Básica
+Taxa de mortalidade neonatal institucional (Hospital da Mulher)
+Taxa de mortalidade precoce (30-59 años) por diabetes mellitus e suas complicações
+Proporção de hospitalizações por causas selecionadas sensiveis a Atenção Básica (AB)
+Taxa de mortalidade precoce (30-59 años) por acidente cerebrovascular
+Taxa de mortalidade neonatal institucional (HMU)","obitos
+obitos
+numero de hospitalizações
+obitos
+obitos
+numero de hospitalizações
+obitos
+obitos",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"41","BR-L1429",2016,"CITY OF SÃO PAULO HEALTH CARE NETWORKS RESTRUCTURING AND QUALITY CERTIFICATION PROJECT – AVANÇA SAÚDE SP","BR-L1429 - CITY OF SÃO PAULO HEALTH CARE NETWORKS RESTRUCTURING AND QUALITY CERTIFICATION PROJECT – AVANÇA SAÚDE SP","+Tasas mejoradas","Tasa de mortalidad prematura por doencas coronariana - MUJERES
+Tasa de internaciones por condiciones sensibles a la atención básica - MUJERES
+Tasa de mortalidad prematura por accidentes cerebro vasculares (ACV) - HOMBRES
+Tasa de mortalidad prematura por doencas coronariana - HOMBRES
+Tasa de mortalidad prematura por accidentes cerebro vasculares (ACV) - MUJERES
+Tasa de internaciones por condiciones sensibles a la atención básica - HOMBRES
+Tasa de mortalidad prematura por Diabetes Mellitus (DM) - HOMBRES
+Tasa de mortalidad prematura por Diabetes Mellitus (DM) - MUJERES","/100000 Hab
+/10000 habitantes
+/100000 habitantes
+/100000 Hab
+/100000 habitantes
+/10000 habitantes
+/100000 habitantes
+/100000 habitantes",TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+"42","BR-L1518",2019,"Program to Strengthen the Care Model in the Paraiba Health Network","BR-L1518 - Program to Strengthen the Care Model in the Paraiba Health Network","+Contribuir para a melhoria das condições de saúde da população da Paraíba
++Contribuir a mejorar las condiciones de salud de la población de Paraíba","Taxa de mortalidade prematura por Diabetes Melitus (DM) - Homens
+Taxa de mortalidade prematura por acidentes cerebrais-vasculares - Homens
+Tasa de mortalidad materna por causas directas (obstétricas)
+Tasa de mortalidad prematura por accidentes cerebrovasculares - Hombres
+Taxa de mortalidade prematura por acidentes cerebrais-vasculares - Mulheres
+Taxa de mortalidade prematura por Diabetes Melitus (DM) - Homens
+Tasa de mortalidad por enfermedades coronarias - Mujeres
+Taxa de mortalidade prematura por Diabetes Melitus (DM) - Mulheres
+Taxa de mortalidade prematura por Diabetes Melitus (DM) - Mulheres
+Taxa de mortalidade prematura por acidentes cerebrais-vasculares - Homens
+Taxa de mortalidade prematura por enfermidades coronárias - Mulheres
+Taxa de mortalidade prematura por acidentes cerebrais-vasculares - Mulheres
+Taxa de mortalidade prematura por enfermidades coronárias - Homens
+Taxa de mortalidade prematura por enfermidades coronárias - Mulheres
+Tasa de internaciones por condiciones sensibles a la atención básica- Hombres
+Tasa de mortalidad prematura por Diabetes Mellitus (DM) - HOMBRES
+Taxa de mortalidade prematura por enfermidades coronárias - Homens
+Tasa de mortalidad prematura por Diabetes Mellitus (DM) - MUJERES
+Tasa de mortalidad por enfermedades coronarias - Hombres
+Tasa de mortalidad prematura por accidentes cerebrovasculares - Mujeres
+Taxa de mortalidade materna por causas diretas
+Tasa de internaciones por condiciones sensibles a la atención básica- Mujeres","/100.00 habitantes - óbitos
+/100.00 habitantes
+/100.000 nacidos vivos
+/100.00 habitantes
+/100.00 habitantes
+/100.000 habitantes - óbitos
+/100.00 habitantes
+/100.00 habitantes - óbitos
+/100.000 habitantes - óbitos
+/100.000 habitantes
+/100.00 habitantes - óbitos
+/100.000 habitantes
+/100.000 habitantes - óbitos
+/100.000 habitantes - óbitos
+/10.000 habitantes
+/100.00 habitantes
+/100.00 habitantes - óbitos
+/100.00 habitantes
+/100.00 habitantes
+/100.00 habitantes
+/100.000 nacidos vivos
+/10.000 habitantes",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"43","BR-L1519",2018,"Modernization and Quality Improvement of Health Services Networks in Belo Horizonte - BetterHealth-BH","BR-L1519 - Modernization and Quality Improvement of Health Services Networks in Belo Horizonte - BetterHealth-BH","+Contribuir para melhorar a saúde da população do Município de Belo Horizonte
++Contribuir para mejorar la salud de la población del Municipio de Belo Horizonte","Percentual de internações por condições sensíveis à atenção primária
+Tasa de mortalidad prematura por Enfermedades Crónicas no Transmisibles
+Taxa de Mortalidade Prematura por doenças crônicas não transmissíveis
+Porcentaje de hospitalizaciones por condiciones sensibles a la atención básica","/100 internações
+Muertes por 100.000 habitantes
+Óbitos por 100.000 habitantes
+/100.000 hospitalizaciones",TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+"44","BR-L1543",2020,NA,"BR-L1543 - NA","+Objetivo general de desarrollo: El objetivo general del proyecto será contribuir a mejorar el desarrollo infantil de la población beneficiaria del PCF de una manera más eficiente, refinando y calificando sus acciones.","Puntaje prueba Ages and Stages Questionnaire – 3 (ASQ-3)","Puntos ASQ-3 (0 - 300)",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"45","BR-L1554",2020,NA,"BR-L1554 - NA","+Contribuir a asegurar niveles mínimos de calidad de vida de las personas vulnerables frente a la crisis causada por el COVID-19","Empleos formales en el sector privado que fueron protegidos de perderse a través de la implementación del Programa de Emergencia de Manutención de Empleo e Ingresos (PEMEI), al año de su implementación.
+Hogares que fueron protegidos de caer por debajo de la línea de pobreza a través de la implementación de la Asistencia de Emergencia y de Bolsa Família, durante el plazo de ejecución del Proyecto.","Puntos porcentuales
+Puntos porcentuales",FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+"46","BR-L1583",2020,"Health Care and Social Inclusion Networks Strengthening Program - PROREDES Sergipe","BR-L1583 - Health Care and Social Inclusion Networks Strengthening Program - PROREDES Sergipe","+Mejorar la salud de la población del Estado de Sergipe.","Tasa de mortalidad prematura por Accidente Cerebrovascular (ACV) en mujeres
+Tasa de mortalidad prematura por ACV en hombres
+Tasa de mortalidad prematura Diabetes Mellitus (DM) en hombres
+Tasa de mortalidad prematura Diabetes Mellitus (DM) en mujeres
+Tasa de mortalidad neonatal tardía","/100.000 habitantes
+/100.000 habitantes
+/100.000 habitantes
+/100.000 habitantes
+/100.000 habitantes",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"47","BR-L1606",2019,"Program for Modernization and Quality Improvement of the Health System in Ourinhos - SP","BR-L1606 - Program for Modernization and Quality Improvement of the Health System in Ourinhos - SP","+Objetivo general de desarrollo: mejorar las condiciones de salud de la población de Ourinhos, mediante la ampliación del acceso y la mejora de la calidad de los servicios de salud","Tasa de mortalidad prematura por Enfermedades Crónicas No Transmisibles (ECNT)
+Hospitalizaciones por condiciones sensibles a la Atención Primaria de Salud (APS)","/100.000 habitantes
+%",TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+"48","CO-G1013",2020,NA,"CO-G1013 - NA","+IMPACTO 1. Eliminación de la transmisión autóctona de la malaria en la frontera con Panamá (Acandí, Juradó, Riosucio y Unguía), Y la reducción de casos autóctonos de malaria complicada y muertes en los municipios priorizados (Atrato, Bagadó, Buenaventura, Lloró, Medio Atrato, Quibdó, Rio Quito y Tumaco)","P1.01 Casos de malaria de transmisión local en el último año - CHOCÓ
+P1.01 Casos de malaria de transmisión local en el último año - PANAMÁ
+P1.01 Casos de malaria de transmisión local en el último año - PACÍFICO SUR
+P1.02 Casos de malaria complicada - PANAMÁ - CHOCÓ - PACÍFICO SUR
+P1.03 Muertes por malaria -PANAMÁ - CHOCÓ - PACÍFICO SUR
+no
+P1.01 Casos de malaria de transmisión local en el último año - PANAMÁ
+P1.01 Casos de malaria de transmisión local en el último año - CHOCÓ
+P1.02 Casos de malaria complicada - CHOCÓ
+P1.03 Muertes por malaria - PANAMÁ
+P1.02 Casos de malaria complicada - PANAMÁ
+P1.03 Muertes por malaria - PACÍFICO SUR
+P1.02 Casos de malaria complicada - PACÍFICO SUR
+P1.01 Casos de malaria de transmisión local en el último año - PACÍFICO SUR
+P1.03 Muertes por malaria - CHOCÓ","Número
+Número
+Número
+Número
+Número
+NA
+Número
+Número
+Número
+Número
+Número
+Número
+Número
+Número
+Número",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"49","CO-G1028",2020,NA,"CO-G1028 - NA","+Contribuir a reducir la morbilidad y la mortalidad por COVID-19 y a mitigar los efectos indirectos de la epidemia","Número de muertes provocadas por COVID-19 en Nariño
+Casos de COVID-19 confirmados en Nariño
+Número de muertes provocadas por COVID-19 en Putumayo
+Casos de COVID-19 confirmados en Putumayo","Número de muertes
+Número de casos
+Número de muertes
+Número de casos",TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+"50","CO-J0011",2019,NA,"CO-J0011 - NA","+Mejorar la sostenibilidad del SGSSS con el fin de preservar los logros obtenidos en materia de cobertura, equidad y protección financiera, así como mejorar la salud de la población","Patrimonio adecuado de EPS deficitarias
+Cobertura de afiliación al SGSSS
+Tasa de mortalidad prematura por enfermedades crónicas en población entre 30 y hasta 70 años (por cada 100.000 personas entre 30 y 70 años)","Billones de pesos
+Porcentaje
+Muertes por cada 100.000 habitantes",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+"51","CO-L1248",2019,"PROGRAM TO ENHANCE SUSTAINABILITY AND INCLUSIVENESS IN THE COLOMBIAN HEALTH CARE SYSTEM","CO-L1248 - PROGRAM TO ENHANCE SUSTAINABILITY AND INCLUSIVENESS IN THE COLOMBIAN HEALTH CARE SYSTEM","+Mejorar la sostenibilidad del SGSSS con el fin de preservar los logros obtenidos en materia de cobertura, equidad y protección financiera, así como mejorar la salud de la población","Patrimonio adecuado de EPS deficitarias
+Tasa de mortalidad prematura por enfermedades crónicas en población entre 30 y hasta 70 años (por cada 100.000 personas entre 30 y 70 años)
+Cobertura de afiliación al SGSSS","Billones de pesos
+Muertes por cada 100.000 habitantes
+Porcentaje",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+"52","CO-L1252",2018,NA,"CO-L1252 - NA","+Inclusión social y productiva de las personas con discapacidad","Índice multidimensional de inclusión social y productiva de las personas con discapacidad desagregada por género femenino
+Índice multidimensional de inclusión social y productiva de las personas con discapacidad desagregada por género masculino","%
+%",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"53","DR-L1044",2010,NA,"DR-L1044 - NA","+Niños y niñas beneficiarios de Solidaridad con menor probabilidad de ser pobres crónicos en la adultez","Niños(as) de entre 14 y 16 años en hogares Solidaridad que terminaron al menos 6 grados de educación básica
+Niños(as) de entre 18 y 60 meses en hogares beneficiarios de Solidaridad con esquema de vacunacion completa
+Prevalencia de desnutrición crónica de niños(as) de 0-2 años en hogares beneficiarios de Solidaridad disminuida
+Estatura promedia de niños y niñas en los rangos de 36 a 60 meses en hogares beneficiarios de Solidaridad incrementada","Percentaje
+Porcentaje
+Percentaje
+Centímetro",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"54","DR-L1047",2011,NA,"DR-L1047 - NA","+Niños y niñas beneficiarios de Solidaridad tienen menor probabilidad de ser pobres crónicos en la adultez","Prevalencia de desnutrición crónica de niños(as) de 0-2 años en hogares beneficiarios de Solidaridad
+Estatura promedio de niños y niñas en los rangos de 36 a 60 meses en hogares beneficiarios de Solidaridad
+Niños(as) de entre 18 y 60 meses en hogares beneficiarios de Solidaridad con esquema de vacunación completa
+Niños(as) de entre 14 y 16 años en hogares Solidaridad que terminaron al menos seis grados de educación básica","Porcentaje
+centímetros
+Porcentaje
+Porcentaje",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"55","DR-L1053",2011,NA,"DR-L1053 - NA","+Niños y niñas beneficiarios de Solidaridad con menor probabilidad de ser pobres crónicos en la adultez","Estatura promedio de niños y niñas en el rango de 36 a 60 meses en hogares beneficiarios de Solidaridad.
+Niños(as) de entre 18 y 60 meses en hogares beneficiarios de Solidaridad con esquema de vacunación completa
+Tasa de sobreedad en media de estudiantes en hogares beneficiarios de Solidaridad
+Porcentaje de becarios de ILAE entre 18 y 19 años que completaron 12 años de escolaridad","centímetros
+Porcentaje
+Porcentaje
+Porcentaje",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"56","DR-L1059",2011,NA,"DR-L1059 - NA","+Niños y niñas beneficiarios de ?Progresando con Solidaridad? con menor probabilidad de ser pobres crónicos en la adultez.
++Niños y niñas beneficiarios de ¿Progresando con Solidaridad¿ con menor probabilidad de ser pobres crónicos en la adultez.","Niños(as) de entre 18 y 29 meses de hogares beneficiarios de PROSOLI con esquema de vacunación completo.
+Estatura promedio de niños y niñas en los rangos de 36 a 60 meses en hogares beneficiarios de Progresando con Solidaridad (PROSOLI)
+Niños(as) de entre 18 y 29 meses de hogares beneficiarios de PROSOLI con esquema de vacunación completo.
+Estatura promedio de niños y niñas en los rangos de 36 a 60 meses en hogares beneficiarios de Progresando con Solidaridad (PROSOLI)
+Sobre-edad en media de estudiantes en hogares beneficiarios de PROSOLI
+Becarios de ILAE entre 18 y 19 años que completaron 12 años de escolaridad
+Brecha de pobreza
+Sobre-edad en media de estudiantes en hogares beneficiarios de PROSOLI
+Brecha de pobreza
+Becarios de ILAE entre 18 y 19 años que completaron 12 años de escolaridad
+Niños(as) de entre 18 y 29 meses de hogares beneficiarios de PROSOLI con esquema de vacunación completo.
+Sobre-edad en media de estudiantes en hogares beneficiarios de PROSOLI
+Brecha de pobreza
+Becarios de ILAE entre 18 y 19 años que completaron 12 años de escolaridad","Porcentaje
+CM
+Porcentaje
+CM
+Porcentaje
+Porcentaje
+Porcentaje
+Porcentaje
+%
+%
+%
+%
+Porcentaje
+Porcentaje",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"57","DR-L1067",2013,"Strengthening of the Management for Results of the Sector Health in Dominican Republic","DR-L1067 - Strengthening of the Management for Results of the Sector Health in Dominican Republic","+Acceso de la población pobre a los servicios de salud mejorado y morbi-mortalidad materna e infantil disminuida","Mortalidad infantil disminuida en los hospitales en que se implementará el CEMI
+Mortalidad materna disminuida en los seis hospitales en los que se implementará el Modelo de Centros de Excelencia CIME Materno Infantil (CEMI)
+Población pobre I-II (SIUBEN) no cubierta por ningún régimen con acceso garantizado a los servicios de salud primer nivel a través del FBR, en las cinco regiones de salud del Proyecto","Porcentaje
+Porcentaje
+Personas",TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+"58","DR-L1069",2014,"Program to Support Strengthening of Health Sector Management","DR-L1069 - Program to Support Strengthening of Health Sector Management","+Mejorar la cobertura, la calidad y el acceso de los servicios de salud para la población más vulnerable de República Dominicana (RD).","Porcentaje de prestaciones capitadas del Seguro Nacional de Salud (SENASA) pagadas contra resultados.
+% de las intervenciones ambulatorias en los SRS que ocurre en el primer nivel de atención.
+Porcentaje de consultas de las 10 patologías de mayor prevalencia realizadas en base a protocolos clínicos en el primer nivel de atención.
+Cantidad de Población Pobre (SIUBEN I - II) no cubierta por ningún régimen a las que se les garantiza acceso a servicios de primer nivel a través del modelo de Financiamiento Basado en Resultados (FBR), en el Servicio Regional de Salud (SRS) ¿0¿ .","%
+%
+%
+%",TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+"59","DR-L1152",2021,NA,"DR-L1152 - NA","+Objetivo general de desarrollo: mejorar las condiciones de vida de la población más vulnerable del país","Tasa de empleo de mujeres en hogares ICV I e ICV II con personas con alguna dependencia que
+reciben servicios de cuidado","Porcentaje",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"60","EC-J0006",2021,NA,"EC-J0006 - NA","+Reunificación familiar de población infantil y adolescente incrementada (MIES)
++Salud materna mejorada (MSP)
++Exclusión de población infantil y adolescente del sistema escolar reducida (MINEDUC)","Población infantil y adolescente reunificada con su familia
+Mortalidad materna por complicaciones durante el parto
+Cobertura de educación incial, de sostenimiento fiscal en las provincias priorizadas
+Rezago escolar en Educación General Básica, sostenimiento fiscal
+Población infantil y adolescente reunificada con su familia
+Población en edad escolar que asiste a la escuela desde el 1ro de Educación General Básica.
+Rezago escolar en la población escolar de 8 a 18 años.","%
+tasa
+%
+%
+%
+%
+%",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"61","EC-L1076",2014,"Support the Extension of Social Protection and Comprehensive Health Care","EC-L1076 - Support the Extension of Social Protection and Comprehensive Health Care","+Hospitalizaciones evitables por condiciones sensibles de atencion primaria, reducidas.
++Prevalencia de desnutrición entre niños de 1 y 5 años reducida.
++Mortalidad infantil (menos de 1 año) por 1000 nacidos vivos reducida.
++Hospitalizaciones por condiciones respiratorias agudas, reducidas.","Reducción de hospitalizaciones por condiciones respiratorias agudas.
+Reducción en la prevalencia de desnutrición de niños entre 1 y 5 años.
+Reducción del índice de mortalidad infantil.
+Reducción de hospitalizaciones por condiciones respiratorias agudas.
+Reducción del índice de mortalidad infantil.
+Reducción en la prevalencia de desnutrición de niños entre 1 y 5 años.
+Reducción en la prevalencia de desnutrición de niños entre 1 y 5 años.
+Reducción del hospitalizaciones evitables por condiciones sensibles de atencion primaria (HECSAP)","% de hospitalizaciones
+prevalencia de desnútrición
+Indice de Mortalidad Infantil
+% de hospitalizaciones
+Indice de Mortalidad Infantil
+prevalencia de desnútrición
+prevalencia de desnútrición
+% de hospitalizaciones",TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+"62","EC-L1107",2014,NA,"EC-L1107 - NA","+Porcentaje de niños menores de 60 meses con desnutrición crónica o retraso en talla reducido en las parroquias priorizadas.
++Cambios en las prácticas nutricionales.
++Prevalencia de enfermedades de los niños menores de 5 años reducida.
++Índice desempeño psicomotor en niños/as menores de 60 meses mejorado en las parroquias priorizadas.
++Cambios en prácticas de crianza de los niños menores de 5 años reportados.","Porcentaje de niños menores de 60 meses con desnutrición crónica o retraso en talla en las parroquias priorizadas.
+Porcentaje de aumento en las mujeres que reportan cambios en prácticas nutricionales en las parroquias priorizadas.
+Porcentaje de niños menores de 5 años con Enfermedad Diarreica Aguda (EDA) en las parroquias priorizadas.
+Indice de desempeño psicomotor en niños/as menores de 60 meses mejorado en las parroquias priorizadas.
+Porcentaje de aumento en las mujeres que reportan cambios en prácticas de crianza de los niños menores de 5 años en las parroquias priorizadas.
+Porcentaje de niños menores de 5 años con Infecciones Respiratorias Agudas (IRA) en las parroquias priorizadas.","Puntos porcentuales
+Puntos porcentuales
+Tasa por 10.000
+n.d.
+Puntos porcentuales
+Tasa por 10.000",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"63","EC-L1129",2015,NA,"EC-L1129 - NA","+Avance en el cierre de brechas en acceso a los servicios sociales priorizados para las familias en condiciones de extrema pobreza.","Porcentaje de servicios sociales priorizados que se han entregado a familias en condiciones de extrema pobreza según su elegibilidad para dichos servicios","Porcentaje",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+"64","EC-L1235",2008,NA,"EC-L1235 - NA","+Nivel de desarrollo infantil temprano mejorado","Puntaje Test de Vocabulario en Imágenes Peabody (TVIP) para niños y niñas de 36 - 42 meses de edad usuarios de servicios CDI
+Puntaje Test de Vocabulario en Imágenes Peabody (TVIP) para niños y niñas de 36 - 42 meses de edad usuarios de servicios CDI y CNH","Puntaje TVIP estandarizado
+Puntaje TVIP estandarizado",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"65","EC-L1236",2018,NA,"EC-L1236 - NA","+Atención oportuna en salud, educación de calidad, cuidado diario y recreación para personas con discapacidad mejorados","Puntaje de síndrome de sobrecarga en cuidadores de personas con discapacidad
+Porcentaje de personas con discapacidad escolarizadas, con bachillerato aprobado y acceso a educación superior","Puntaje
+%",TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+"66","EC-L1238",2018,NA,"EC-L1238 - NA","+Prevención de violencia contra niñas, niños, adolescentes y mujeres
++Inclusión social de personas con discapacidad","Casos de presunta violencia atendidos en salud con proceso judicial iniciado
+Casos de violación de derechos de niñas, niños y adolescentes (NNA) que cuentan con las medidas de protección emitidas
+Adolescentes de 15 a 19 años que usan métodos anticonceptivos modernos
+Personas con discapacidad registradas que fueron recalificadas
+Estudiantes con discapacidad con sobreedad escolar en unidades educativas especializadas
+""Tiempo de respiro"" otorgado a la persona cuidadora de una persona usuaria del BJGL","%
+%
+%
+%
+%
+DE de horas/ mes",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"67","EC-L1250",2018,NA,"EC-L1250 - NA","+Competitividad internacional del país incrementada
++Contribuir a la reducción de la Desnutrición Crónica Infantil (DCI), mediante la entrega de Prestaciones de Salud Priorizadas (PSP) en mujeres embarazadas y niños menores de dos años, realizando acciones intersectoriales con énfasis en la participación ciudadana y la interculturalidad, focalizando intervenciones en parroquias priorizadas del país","Indice de competitividad global
+La desnutrición crónica en menores de dos años disminuye en 2 puntos porcentuales","Puntaje
+Porcentaje",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"68","EC-L1258",2021,NA,"EC-L1258 - NA","+Reunificación familiar de población infantil y adolescente incrementada (MIES)
++Salud materna mejorada (MSP)
++Exclusión de población infantil y adolescente del sistema escolar reducida (MINEDUC)","Población infantil y adolescente reunificada con su familia
+Mortalidad materna por complicaciones durante el parto
+Cobertura de educación incial, de sostenimiento fiscal en las provincias priorizadas
+Rezago escolar en Educación General Básica, sostenimiento fiscal
+Población infantil y adolescente reunificada con su familia
+Población en edad escolar que asiste a la escuela desde el 1ro de Educación General Básica.
+Rezago escolar en la población escolar de 8 a 18 años.","%
+tasa
+%
+%
+%
+%
+%",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"69","EC-L1270",2022,"Support to the provision of health and social protection services in the context of the pandemic of the coronavirus COVID-19","EC-L1270 - Support to the provision of health and social protection services in the context of the pandemic of the coronavirus COVID-19","+Contribuir a reducir la morbilidad y la mortalidad por COVID-19 y a mitigar los demás efectos indirectos de la pandemia sobre la salud y los niveles mínimos de calidad de vida de las personas vulnerables frente a la crisis causada por el COVID-19","Nivel de consumo de familias vulnerables respecto a nivel de consumo de familias no vulnerables
+Número de muertes provocadas por COVID 19","%
+Muertes",TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+"70","EC-L1276",2016,NA,"EC-L1276 - NA","+Contribuir a asegurar niveles mínimos de calidad de vida de las personas vulnerables frente a la crisis económica causada por el COVID-19 y las medidas de mitigación de la crisis sanitaria.","Nivel de consumo de familias vulnerables respecto a nivel de consumo de familias no vulnerables","Porcentaje",FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+"71","EC-L1277",2020,NA,"EC-L1277 - NA","+Mejorar la calidad de vida de la población, a través de la mejora en la cobertura, focalización y/o calidad de programas sociales prioritarios y de la implementación de medidas para apoyar la recuperación del empleo","Tasa de pobreza (cambio acumulado respecto a diciembre 2019)
+Tasa de empleo acumulado","%
+%",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+"72","EC-U0003",2023,NA,"EC-U0003 - NA","+Objetivo general de desarrollo: Contribuir a reducir la morbilidad y mortalidad por COVID-19","Número de casos de COVID-19 confirmados
+Número de muertes provocadas por COVID-19","Número
+Número",TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+"73","ES-L1027",2009,"Integrated Health Program","ES-L1027 - Integrated Health Program","+Mejorar la situación de salud de la población de El Salvador","Razón de mortalidad materna a nivel nacional
+Tasa de mortalidad perinatal a nivel nacional
+Tasa de mortalidad infantil a nivel nacional
+Mortalidad por cáncer cervicouterino diagnosticado en los establecimientos del Minsal","Razón
+tasa
+tasa
+tasa",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"74","ES-L1095",2017,"Integrated Health Program II","ES-L1095 - Integrated Health Program II","+Mejora de la salud de la población a través del fortalecimiento de la provisión de servicios de salud en todos los niveles de atención de la red y mejora de la eficiencia de la gestión de la red pública","3. Tasa de mortalidad infantil en el Departamento de San Salvador
+Tasa de mortalidad infantil en el Departamento de San Salvador (DSS)
+Tasa de Mortalidad (18-70 años de edad) por hipertensión en el Departamento de San Salvador
+Tasa Mortalidad (30 – 69 años de edad) por Cáncer de Cérvix a nivel nacional
+2. Tasa de mortalidad por cáncer hematológico en el grupo de edad igual o mayor a 18 años a nivel nacional
+Tasa Mortalidad (30 – 69 años de edad) por Enfermedades hipertensivas en el Departamento de San Salvador (DSS)
+Tasa de mortalidad por cáncer hematológico en el grupo de 30 a 69 años a nivel nacional","tasa
+tasa
+tasa
+tasa
+tasa
+tasa
+tasa",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+"75","ES-L1144",2020,"Immediate Public Health Response to Contain and Control Coronavirus and Mitigate its Effect on Service Delivery in El Salvador","ES-L1144 - Immediate Public Health Response to Contain and Control Coronavirus and Mitigate its Effect on Service Delivery in El Salvador","+Contención y control del Coronavirus y mitigación de su efecto en los servicios de salud","Casos confirmados de COVID-19
+Número de muertes por COVID-19","Número de casos confirmados
+Número de muertes",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+"76","ES-L1159",2023,NA,"ES-L1159 - NA","+incrementar la resiliencia de los hogares afectados por eventos adversos, incluyendo aquellos causados por cambio climático, a través de la creación de un sistema integrado de protección social responsivo a choques, la entrega de TM temporales y el fortalecimiento de la oferta de DIT para dichos hogares.","Indicador 1: Cambio porcentual en incidencia de inseguridad alimentaria en hogares afectados por choques a raiz del programa
+Indicador 2: 
+Tasa neta de educación inicial
+Indicador 3: Error de inclusión en programas de transferencias.","Porcentaje
+Porcentaje
+Porcentaje",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"77","GU-G1001",2012,NA,"GU-G1001 - NA","+Estado de salud y nutrición de las mujeres en edad reproductiva y los niños menores de cinco años que viven en las regiones más
+pobres del país, mejorado.","Prevalencia de anemia en niños de 6-23 meses
+Prevalencia de desnutrición crónica en niños menores de 5 años
+Mortalidad en menores de cinco años
+Mortalidad Infantil
+Mortalidad Neonatal
+Mortalidad Materna","Porcentaje
+Porcentaje
+Tasa (x 1,000 nacidos vivos)
+Tasa (x 1,000 nacidos vivos)
+Tasa (x 1,000 nacidos vivos)
+Razon (x 100,000 nacidos vivos)",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"78","GU-L1009",2007,"Strengthening Hospital Network Program","GU-L1009 - Strengthening Hospital Network Program","+El acceso y la calidad de los servicios hospitalarios de salud mejorada","Casos de Infecciones Respiratorias Agudas (IRAs) atendidos y tratados en menores de 5 años
+Casos de Enfermedades Diarreicas Agudas (EDAs) atendidos y tratados en menores de 5 años
+Embarazadas con parto atendido institucionalmente","%
+%
+%",TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+"79","GU-L1022",2011,"Improved Access and Quality of Health and Nutrition Services - Phase I","GU-L1022 - Improved Access and Quality of Health and Nutrition Services - Phase I","+El acceso, la utilización y la calidad de los servicios de nutrición y salud del primer y segundo nivel de atención mejorada, en al menos 47 municipios priorizados por el programa de transferencias condicionadas.","Anemia en niños de 6 a 24 meses
+Desnutrición crónica en niños de 6 a 24 meses
+Anemia en mujeres embarazadas y lactantes","%
+%
+%",TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+"80","GU-L1163",2016,"Program to Strengthen the Institutional Healthcare Service Network (PRORISS)","GU-L1163 - Program to Strengthen the Institutional Healthcare Service Network (PRORISS)","+Tasa de Mortalidad Infantil Huehuetenango y San Marcos
++Razón de Mortalidad Materna Huehuetenango y San Marcos","Tasa de Mortalidad Infantil Huehuetenango y San Marcos
+Razón de Mortalidad Materna Huehuetenango y San Marcos
+Tasa de Mortalidad Infantil Huehuetenango y San Marcos
+Razón de Mortalidad Materna Huehuetenango y San Marcos","Niños fallecidos menores de un año por 1.000 nacidos vivos
+Mujeres fallecidas cada 100.000 nacidos vivos
+tasa
+Razón",TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+"81","GU-L1176",2019,NA,"GU-L1176 - NA","+El objetivo general de este programa es contribuir a apoyar niveles mínimos de consumo de las personas vulnerables frente a la crisis causada por el COVID-19 en Guatemala.","Nivel de ingreso de familias vulnerables (tres quintiles más bajos) respecto a nivel de ingreso de familias no vulnerables (dos quintiles más altos) 12 meses después de inicio de la crisis","%",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+"82","GU-L1183",2020,NA,"GU-L1183 - NA","+Mejorar la calidad de vida de la población más vulnerable a través de una mayor calidad del gasto en protección social y en servicios de salud","Porcentaje de beneficiarios del Bono Social en situación de extrema pobreza
+Razón de mortalidad materna","Porcentaje
+# Mujeres embarazadas fallecidas/100,000 nacidos vivos",TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+"83","GY-L1058",2014,"Support to Improve Maternal and Child Health","GY-L1058 - Support to Improve Maternal and Child Health","+Contribute to the reduction of maternal, perinatal, and neonatal deaths in Guyana by 2021","Neonatal Mortality Rate
+Maternal mortality ratio.","ratio
+ratio",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"84","GY-L1077",NA,NA,"GY-L1077 - NA","+The general development objective is to contribute to ensuring minimum levels of quality of life for vulnerable persons amid the crisis caused by COVID-19","NA","NA",FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+"85","GY-L1080",2022,"Health Care Network Strengthening in Guyana","GY-L1080 - Health Care Network Strengthening in Guyana","+Improve the health of the Guyanese population through increased access, quality, and efficiency of health services","Risks of premature death from NCDs
+Risk of premature death from NCDs
+Vision impairment and blindness due to diabetic retinopathy
+Crude mortality rate in the intervened regions
+Crude mortality rate
+Age-standardized death rate due to self-harm","%
+%
+#
+Per 1,000
+Per 1,000
+Per 100,000",TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE
+"86","HA-J0001",2021,NA,"HA-J0001 - NA","+The general objective of this project is to contribute to ensuring minimum levels of quality of life for vulnerable persons amid the crisis caused by COVID-19.","Households with an IPC of above 4 in selected areas of intervention for the program","%",FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+"87","HA-J0005",2022,NA,"HA-J0005 - NA","+To contribute to reducing food insecurity among vulnerable populations in Haiti and to increasing the medium- and long-term resilience among vulnerable populations in Haiti","Percentage of population in selected areas of intervention for the program with an Integrated Food Security Phase Classification (IPC) level 3 or above","%",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"88","HA-J0007",2023,NA,"HA-J0007 - NA","+To address food insecurity among vulnerable populations in Haiti by improving access to food and to increase the use of preventive and essential health services","Households with an IPC of 3 or higher in selected areas of intervention for the program
+Beneficiaries assisted by GHESKIO and ZL-PIH under this program who experience an improvement in their medically diagnosed condition","Percentage (%)
+Percentage (%)",TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+"89","HA-L1137",2020,NA,"HA-L1137 - NA","+Socioeconomic integration of young people increases","Pro-social behavior among beneficiaries.
+Youth beneficiaries of training that worked during last week.
+Percentage of startups (of graduated entrepreneurs) that are still in operation 12 months after the graduation of the entrepreneur
+Youth beneficiaries of training that worked during last week.
+Percentage of startups (of graduated entrepreneurs) that are still in operation 12 months after the graduation of the entrepreneur
+Pro-social behavior among beneficiaries.","Standardized Scale
+Percentage
+Percentage
+Percentage
+Percentage
+Standardized Scale",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"90","HA-L1145",2019,NA,"HA-L1145 - NA","+To contribute to ensuring minimum levels of quality of life for vulnerable persons amid the crisis caused by COVID-19","Food consumption level of vulnerable families compared to that of nonvulnerable families 12 months after the onset of the crisis","%",FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+"91","HO-G1250",2016,NA,"HO-G1250 - NA","+Impacto #1: Eliminación de los casos de malaria","P1.01. Casos de malaria de transmisión local en el último año
+E1.01 Casos de malaria y tasa de incidencia (por 1000 habitantes):
+• por especie, clasificación, sexo, grupo de edad;
+• por fuente (por ejemplo, importado o autóctono),
+• por detección activa o pasiva, y
+• por sector
+E1.02 Focos por clasificación
+E1.03 Personas y porcentaje de la población que vive en focos activos
+E1.03 Personas y porcentaje de la población que vive en focos activos
+E1.04 Muertes debido a la malaria, por especie y por tipo de caso (importado o adquirido localmente)","Numero de casos
+Numero de casos
+Numero
+Numero
+%
+Numero",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"92","HO-L1071",2012,NA,"HO-L1071 - NA","+Acumulación de capital humano en familias que viven en situación de pobreza fomentada a través de: (i) aumento del uso de servicios educación, salud y nutrición y (ii) fortalecimiento de los procesos y herramientas de gestión técnica del programa para aum","Nutricion. Prevalencia de anemia en niños menores de 5 años (Hb<110 g/L)
+Salud Materna e Infantil. Aumento en el porcentaje de mujeres embarazadas que recibieron control prenatal durante el primer trimestre del embarazo
+Pobreza. Reduccion en Brecha de Pobreza
+Nutricion. Prevalencia de anemia en niños menores de 5 años (Hb<110 g/L)
+Educacion. Porcentaje de niños(as) en hogares rurales que terminaron al menos 6 grados en educación básica
+Educacion. Porcentaje de niños(as) en hogares rurales que terminaron al menos 6 grados en educación básica
+Salud Materna e Infantil. Porcentaje de mujeres embarazadas que recibieron control prenatal durante el primer trimestre del embarazo
+Pobreza. Brecha de Pobreza","pp
+%
+%
+%
+%
+pp
+pp
+pp",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"93","HO-L1072",2010,"Mother and Child Hospital Network Strengthening Program","HO-L1072 - Mother and Child Hospital Network Strengthening Program","+Reducción de la mortalidad materna en los departamento de Intibuca, Lempira y Valle.
++Reducción de la mortalidad infantil en los departamentos de Intibuca, Lempira y Valle.","Mortalidad materna en el departamento de Intibuca
+Mortalidad Infantil en en el departamento de Intibucá
+Mortalidad materna en en el departamento de Valle.
+Mortalidad materna en en el departamento de Lempira.
+Mortalidad Infantil en en el departamento de Valle
+Mortalida infantil en en el departamento de Lempira","tasa
+tasa
+tasa
+tasa
+tasa
+tasa",TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+"94","HO-L1087",2012,NA,"HO-L1087 - NA","+Acumulación de capital humano en familias que viven en situación de pobreza","Nutrición: Prevalencia de anemia en niños menores de cuatro años beneficiarios del programa
+Educación: Porcentaje de niños beneficiarios de 13 a 15 que terminaron al menos seis grados en educación básica
+Pobreza: Reducción en la brecha de pobreza de los primeros dos quintiles de ingreso.
+Salud: Porcentaje de Mujeres embarazadas beneficiarias que recibieron control prenatal durante el primer trimestre del embarazo.","Porcentaje
+Porcentaje
+Porcentaje
+Porcentaje",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"95","HO-L1093",2013,NA,"HO-L1093 - NA","+Acumulación de capital humano y reducción en la intensidad de la pobreza en familias beneficiarias que viven en situación de pobreza","Pobreza: Brecha de pobreza (PG) de los beneficiarios del programa
+Educación: Niños beneficiarios de 13 a 15 que terminaron al menos seis grados en educación básica
+Educación: Niños en aldeas seleccionadas de 15 a 18 años que terminaron la educación básica completa (9º)
+Salud: Porcentaje de mujeres embarazadas beneficiarias que recibieron control prenatal durante el primer trimestre del embarazo
+Nutrición: Prevalencia de anemia en niños de cuatro años o menos beneficiarios del programa","%
+%
+%
+%
+%",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"96","HO-L1105",2016,NA,"HO-L1105 - NA","+Alivio de la Pobreza e Inversion en Capital Humano
++Salud Materna e Infantil
++Nutricion","Tasa de Pobreza extrema en beneficiarios del Programa Bono Vida Mejor a nivel rural
+Porcentaje de mortalidad neonatal en Hospitales financiados por el proyecto
+Prevalencia de anemia en niños de 6 a 59 meses en población de participantes del BVM","%
+%
+tasa",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"97","HO-L1182",2012,NA,"HO-L1182 - NA","+Indicadores de Impacto","Mortalidad Materna
+Mortalidad Infantil","Razón
+tasa",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"98","HO-L1194",2021,NA,"HO-L1194 - NA","+Brecha de la pobreza extrema monetaria
++Alivio a la pobreza extrema e inversión en capital humano","Brecha de la pobreza extrema monetaria
+Matrícula bruta promedio del tercer ciclo de educación básica (TCEB) en las áreas intervenidas
+Brecha de la pobreza extrema monetaria
+Matrícula bruta promedio del tercer ciclo de educación básica (TCEB) en las áreas intervenidas","Porcentaje
+Porcentaje
+Porcentaje
+Porcentaje",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"99","HO-L1195",2019,"Program to improve the management and quality of maternal-neonatal health services","HO-L1195 - Program to improve the management and quality of maternal-neonatal health services","+Reducción de la mortalidad materna neonatal","Razón de muerte materna hospitalaria en los hospitales intervenidos
+Tasa de letalidad neonatal por sepsis y asfixia en hospitales intervenidos
+RMM a nivel Nacional","%
+%
+Razón por 100.000 NV",TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+"100","HO-L1199",2021,"Comprehensive Strengthening of Tegucigalpa's Trauma and Emergency Care Network","HO-L1199 - Comprehensive Strengthening of Tegucigalpa's Trauma and Emergency Care Network","+Reducción de Lesiones de Causas externas
++COVID","Porcentaje de las Discapacidades por egreso relacionadas con las Lesiones de Causa Externa (LCE)
+Número de muertes provocadas por COVID 19
+Casos de COVID 19 confirmados
+Porcentaje de Letalidad de las Lesiones de Causas Externas en el servicio de urgencias
+Pocentaje de muertes hospitalarias por Lesiones de Causas Externas (LCE) general
+Promedio diario de pacientes hospitalizados por COVID 19 durante el mes previo al reportes
+Tasa Mortalidad Hospitalaria por LCE","Porcentaje
+Numero
+Numero
+Porcentaje
+Porcentaje
+Numero
+tasa",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+"101","HO-L1226",2020,NA,"HO-L1226 - NA","+Contribuir a asegurar niveles mínimos de calidad de vida de las personas vulnerables rurales frente a la crisis causada por el COVID-19 y los dos huracanes ETA e IOTA","Nivel de ingreso de hogares vulnerables rurales (tres quintiles más bajos) respecto a nivel de ingreso de hogares no vulnerables (dos quintiles más altos) 12 meses después del inicio de la crisis.
+Brecha de la pobreza extrema monetaria en los hogares participantes rurales del BVM (utilizando la línea de pobreza actualizada)","Porcentaje
+Porcentaje",FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+"102","HO-L1230",2021,NA,"HO-L1230 - NA","+Mejorar las condiciones de vida de los hogares en territorios que concentran pobreza extrema, así como promover la generación de su capital humano y capacidad de autogestión.","Brecha de la pobreza extrema monetaria reducida en los hogares.
+Incidencia de la desnutrición reducida en los niños/as menores de 0 a 5 años.
+Índice de desarrollo infantil temprano (0 a 6 años) aumentado.
+Resultados de pruebas estandarizadas en español y matemática, incrementados (sexto grado).","%
+%
+Índice
+Puntaje",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"103","HO-L1239",2023,"Program to Strengthen the Hospital Network","HO-L1239 - Program to Strengthen the Hospital Network","+Mejorar la efectividad y el acceso a los servicios especializados hospitalarios materno-infantiles, de atención a lesiones de causa externa (LCE) y a complicaciones de enfermedades no trasmisibles","Tasa de mortalidad prematura, con causa básica de enfermedades cardiovasculares en el área de influencia en el último año de operación de los hospitales básicos y generales intervenidos.
+Mortalidad neonatal hospitalaria en los últimos 12 meses de los hospitales básicos y generales intervenidos.
+Letalidad hospitalaria por LCE en el último año de operación de los hospitales de trauma.","%
+Tasa (por mil, ‰)
+%",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+"104","JA-G1005",2018,NA,"JA-G1005 - NA","+Improve the health of Jamaica’s population by implementing comprehensive policies for the prevention of NCD risk factors and increasing access to integrated primary and hospital services networks that provide more efficient and higher quality care.
++The Programme objective is to contribute to the improvement of the health of Jamaica's population by strengthening comprehensive policies for the prevention of NCD risk factors and an improved access to an upgraded and integrated primary and secondary health network in prioritized areas","Premature mortality rate for diabetes mellitus (female)
+Prevalence of diabetes mellitus for age group 15+years (male)
+Prevalence of diabetes mellitus for age group 15+years (female)
+Premature mortality rate for diabetes mellitus (male)
+Premature mortality rate for diabetes mellitus (female)
+Prevalence of diabetes mellitus for age group 18 years+ (male)
+Prevalence of diabetes mellitus for age group 18 years+ (female)
+Prevalence of hypertension for age 18 years+ (male)
+Prevalence of obesity among boys, 13-15 years
+Prevalence of obesity among boys, 13-15 years
+Premature mortality rate for cardiovascular disease (male)
+Premature mortality rate for cardiovascular disease (female)
+Premature mortality rate for diabetes mellitus (male)
+Prevalence of hypertension for age 15+years (male)
+Prevalence of hypertension for age 15+years (female)
+Prevalence of obesity among girls, 13-15 years
+Prevalence of hypertension for age 18 years+ (female)
+Prevalence of obesity among girls, 13-15 years
+Premature mortality rate for cardiovascular disease (male)
+Premature mortality rate for cardiovascular disease (female)
+Premature mortality rate for diabetes mellitus (male)
+Premature mortality rate for diabetes mellitus (female)","Cases for 100,000 inhabitants
+%
+%
+Deaths/ 1000,000 inhabitants
+Deaths/100,000 inhabitants
+% of the population in each age group with the disease
+% of the population in each age group with the disease
+% of the population in each age group with disease
+% of the population in each age group with the disease
+%
+Cases for 100,000 inhabitants
+Cases for 100,000 inhabitants
+Cases for 100,000 inhabitants
+%
+%
+%
+% of the population in each age group with the disease
+% of the population in each age roup with the disease
+100,000 inhabitants
+100,000 inhabitants
+100,000 inhabitants
+100,000 inhabitants",TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE
+"105","JA-L1037",2013,NA,"JA-L1037 - NA","+Increased compliance of full set of health conditionalities for 2-6 years","increased coverage","Percentage",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"106","JA-L1049",2018,"Support for the Health Systems Strengthening for the Prevention and Care Management of Non-communicable Diseases Programme","JA-L1049 - Support for the Health Systems Strengthening for the Prevention and Care Management of Non-communicable Diseases Programme","+To strenghten comprehensive policies for the prevention of non-communicable chronic diseases
++To improve access to an upgraded and integrated primary and secondary health network in prioritized areas with an emphasis on chronic disease management to provide more efficient and higher quality care.
++The Programme objective is to contribute to the improvement of the health of Jamaica's population by strengthening comprehensive policies for the prevention of NCD risk factors and an improved access to an upgraded and integrated primary and secondary health network in prioritized areas","Prevalence of hypertension for age 18 yrs+ (female)
+Prevalence of hypertension for age 18 yrs+ (male)
+Premature mortality rate for cardiovascular diseases (female)
+Prevalence of obesity among boys, 13-15 years
+Prevalence of diabetes mellitus for age group 18 yrs+ (female)
+Premature mortality rate for diabetes mellitus (female)
+Prevalence of diabetes mellitus for age group 18 years+ (female)
+Premature mortality rate for diabetes mellitus (male)
+Prevalence of obesity among boys, 13-15 years
+Premature mortality rate for cardiovascular diseases (male)
+Prevalence of diabetes mellitus for age group 18 yrs+ (male)
+Prevalence of diabetes mellitus for age group 15 yrs+ (female)
+Prevalence of diabetes mellitus for age group 18 years+ (male)
+Prevalence of obesity among girls, 13-15 years
+Prevalence of hypertension for age 15 yrs+ (female)
+Prevalence of obesity among girls, 13-15 years
+Premature mortality rate for diabetes mellitus (male)
+Premature mortality rate for diabetes mellitus (female)
+Prevalence of hypertension for age 18 years+ (male)
+Prevalence of hypertension for age 15 yrs+ (male)
+Prevalence of diabetes mellitus for age group 15 yrs+ (male)
+Prevalence of hypertension for age 18 years+ (female)","%
+%
+Deaths/100,000 inhabitants
+%
+%
+Deaths/100,000 inhabitants
+% of the population in each age group with the disease
+Deaths/ 1000,000 inhabitants
+% of the population in each age group with the disease
+Deaths/ 1000,000 inhabitants
+%
+%
+% of the population in each age group with the disease
+%
+%
+% of the population in each age roup with the disease
+Deaths/100,000 inhabitants
+Deaths/100,000 inhabitants
+% of the population in each age group with disease
+%
+%
+% of the population in each age group with the disease",TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE
+"107","JA-L1053",2016,NA,"JA-L1053 - NA","+Percentage of children in the parenting pilot at risk of delay on child development according to ASQ3
++To support consumption, protect and promote human capital accumulation of Program of Advancement through Health and Education (PATH) beneficiaries, and strengthen the overall capacity of MLSS to improve quality and access to the network of social services provided by the ministry to the poor and vulnerable population.
++Poverty gap of PATH beneficiaries
++Percentage of children in teh parenting pilot at risk of delay on child development according to ASQ3","% of children in the parenting pilot at risk of delay on child development according to ASQ3 (To be determined when baseline is completed)
+Poverty Gap of PATH beneficiaries
+% of children in the parenting pilot at risk of delay on child development according to ASQ3
+Poverty Gap of PATH beneficiaries
+% of children in the parenting pilot at risk of delay on child development according to ASQ3 (To be determined when baseline is completed)","%
+%
+%
+%
+%",TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+"108","ME-L1091",2010,NA,"ME-L1091 - NA","+Reducir el número de carencias promedio de la población mexicana en pobreza extrema.","Número de carencias promedio de la población en pobreza extrema","Número",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"109","ME-L1128",2012,"Growing healthy; strenghtening healthcare for Mexican Children","ME-L1128 - Growing healthy; strenghtening healthcare for Mexican Children","+El objetivo del programa es contribuir a acelerar la reducción de la mortalidad neonatal y post-neonatal, mediante el aseguramiento del financiamiento y acceso efectivo a servicios de salud de calidad, y el fortalecimiento del papel rector de la Secretaría de Salud, a través de su organismo desconcentrado la Comisión Nacional de Protección Social en Salud (CNPSS), con el fin de mejorar el estado de salud de los niños y niñas menores de 5 años sin acceso a la seguridad social.
++Contribuir a acelerar la reducción de la mortalidad neonatal y post-neonatal, y fortalecer el papel rector de la Secretaría de Salud.","Tasa de mortalidad neonatal (x 1.000 nacidos vivos)
+Tasa de mortalidad infantil (x 1.000 nacidos vivos)
+Tasa de mortalidad neonatal (x 1.000 nacidos vivos)
+Tasa de mortalidad infantil (x 1.000 nacidos vivos)","Neonatos
+Niños
+Neonatos
+Niños",TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+"110","ME-L1257",2014,NA,"ME-L1257 - NA","+Desarrollo de capacidades de los integrantes de las familias beneficiarias de PROSPERA Programa de Inclusión Social, mediante apoyos en salud, alimentación y educación","Número de carencias promedio de la población en pobreza extrema","Carencias",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"111","NI-G1022",NA,NA,"NI-G1022 - NA","+Eliminación de los casos de malaria en Nicaragua","NA","NA",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"112","NI-L1054",2009,"Improving Family and Community Health in Highly Vulnerable Municipios","NI-L1054 - Improving Family and Community Health in Highly Vulnerable Municipios","+Estado de salud materno-infantil mejorado en el área priorizada.","Mortalidad neonatal en los municipios priorizados.
+Tasa de nacimientos en adolescentes en los municipios priorizados.
+Mortalidad Materna trianual en los municipios priorizados.","muertes por mil nacidos vivos
+%
+muertes por cien mil nacidos vivos",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"113","NI-L1059",2014,NA,"NI-L1059 - NA","+Mejorar el bienestar de los ninos y su desarrollo cognitivo y socioemocional, particularmente en poblaciones vulnerables","Porcentaje de niños y niñas de 6 a 23 meses con desnutrición crónica en del area priorizada
+Porcentaje de niños de 3 a 6 asistiendo el pre-escolar en comunidades beneficiarias.
+Porcentaje de niños menores de 6 años con retrasos en el desarrollo social/individual en comunidades beneficiarias
+Porcentaje de niños de 0 a 6 años registrados en el Registro Civil en las áreas priorizadas.
+Porcentaje de niños menores de 6 años con retrasos en el desarrollo motor fino en comunidades beneficiarias
+Porcentaje de niños menores de 6 años con retrasos en el desarrollo del lenguaje en comunidades beneficiarias","%
+%
+%
+%
+%
+%",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"114","NI-L1068",2013,"Integrated Health Care Networks","NI-L1068 - Integrated Health Care Networks","+Mejorar el acceso a servicios de calidad y por ende el estado de salud, haciendo más efectivo el derecho a la salud.","Tasa de nacimientos en adolescentes en los SILAIS priorizados
+Tasa de egresos hospitalarios en pacientes hipertensos en los SILAIS priorizados.
+Tasa de hospitalización por diarrea en menores* de cinco años en los SILAIS priorizados (por 1,000 menores de 5 años y medida según residencia habitual del niño egresado).
+Tasa de egresos hospitalarios en pacientes diabéticos en los SILAIS priorizados.","%
+tasa de egresos
+tasa de hospitalización
+tasa de egresos",TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+"115","NI-L1081",2012,"Extending health care to Communities in the Dry Corridor Region","NI-L1081 - Extending health care to Communities in the Dry Corridor Region","+Morbilidad severa en la niñez
++Estado nutricional en la niñez
++Acceso a servicios primarios de salud sexual y reproductiva.","Tasa de hospitalización por enfermedad diarreica aguda (EDA) en menores de cinco años en el SILAIS de Madriz
+Desnutrición crónica en menores de 2 años en los SILAIS de Madriz y Nueva Segovia
+Tasa de hospitalización por neumonía en menores de cinco años en el SILAIS de Madriz.
+Demanda insatisfecha de planificación familiar en el SILAIS de Madriz.","egresos por 1000 niños < 5a
+%
+egresos por cada 1000 niños < 5
+%",TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+"116","NI-L1082",2013,"Modernization of Infrastructure and Management of Hospitals - Western Region","NI-L1082 - Modernization of Infrastructure and Management of Hospitals - Western Region","+Morbi-mortalidad en la Región Occidente
++Acceso a servicios especializados en la Región Occidente","Mortalidad materna en la región occidente.
+Mortalidades por Enfermedades Cardio y Cerebrovasculares.
+Mortalidad por Insuficiencia Renal Crónica (IRC) en León.
+Equidad en el acceso a servicios especializados electivos, medida por el cociente de la tasa de egresos (por mil habitantes) por cirugías mayores electivas del municipio más lejano, respecto de la misma tasa del municipio cabecera.
+Equidad en el acceso a servicios especializados electivos, medida por el cociente de la tasa de egresos (por mil habitantes) por cirugías mayores electivas del municipio más lejano, respecto de la misma tasa del municipio cabecera.
+Mortalidad neonatal en la región occidente.","muertes maternas por cien milNV
+muertes por cien mil habitantes
+muertes por cien mil habitantes
+ratio
+Número
+muertes por mil nacidos vivos.",TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+"117","NI-L1095",2020,"Community Health Program for Rural Municipios","NI-L1095 - Community Health Program for Rural Municipios","+Mortalidad materna reducida.
++Morbilidad severa en la niñez reducida.
++Embarazos no deseados reducidos.
++Estado nutricional de los niños mejorado.","Mortalidad materna trienal.
+Hospitalización por neumonía en menores de cinco años.
+Mortalidad materna trienal.
+Nacimientos en adolescentes
+Hospitalización por enfermedad diarreica aguda (EDA) en menores de cinco años.
+Menores de cinco años con anemia.
+Mortalidad materna trienal.
+Hospitalización por neumonía en menores de cinco años.
+Menores de cinco años con anemia.
+Menores de cinco años con desnutrición crónica.
+Hospitalización por enfermedad diarreica aguda (EDA) en menores de cinco años.","Defunciones obstétricas por 100.000 nacidos vivos
+Hospitalizaciones de menores de cinco años por 1.000 menores de cinco años
+# of beneficiaries
+%
+Hospitalizaciones de menores de cinco años por 1.000 menores de cinco años
+%
+Muertes por 100 mil nacidos vivos
+%
+%
+%
+%",TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+"118","NI-L1143",NA,"Programa Multisectorial de Atención a Determinantes de la Salud en el Corredor Seco","NI-L1143 - Programa Multisectorial de Atención a Determinantes de la Salud en el Corredor Seco","+Mortalidad Materna e infantil reducidas
++Reducción de la desnutrición crónica en menores de 5 años
++Razón de mortalidad materna trienal
++Prevalencia de desnutrición crónica en menores de 5 años**
++Reducción de la mortalidad materna (RMM) trienal
++Tasa estandarizada por edad de mortalidad por cáncer cérvico uterino.
++Reducción de la mortalidad por cáncer cérvico uterino.
++Mortalidad en la niñez por neumonía
++Reducción de la mortalidad en menores de cinco años
++Mortalidad en la niñez por Enfermedad Diarreica Aguda (EDA)**
++Mortalidad por enfermedades crónicas no transmisibles reducida
++Reducción de la mortalidad en la niñez por Enfermedad Diarreica Aguda (EDA)
++Incidencia de malaria.
++Reducción de la prevalencia de malaria.","Razón de mortalidad materna Nueva Segovia
+Prevalencia de desnutrición crónica en menores de 5 años Jinotega
+Razón de mortalidad materna Madriz
+NA
+Razón de mortalidad materna Matagalpa
+NA
+Razón de mortalidad materna Estelí
+Razón de mortalidad materna Jinotega
+Prevalencia de desnutrición crónica en menores de 5 años Madriz
+Razón de mortalidad materna trienal Matagalpa
+NA
+Tasa estandarizada por edad de mortalidad por cáncer cérvico uterino Matagalpa
+NA
+Tasa estandarizada por edad de mortalidad por cáncer cérvico uterino Madriz
+Mortalidad en la niñez por neumonía Estelí
+Mortalidad en la niñez por neumonía Madriz
+Razón de mortalidad materna trienal Jinotega
+Tasa estandarizada por edad de mortalidad por cáncer cérvico uterino Jinotega
+Prevalencia de desnutrición crónica en menores de 5 años Madriz
+Mortalidad en la niñez por neumonía Jinotega
+Mortalidad en la niñez por neumonía Jinotega
+NA
+Tasa estandarizada por edad de mortalidad por cáncer cérvico uterino Jinotega
+Razón de mortalidad materna trienal Nueva Segovia
+Prevalencia de desnutrición crónica en menores de 5 años Nueva Segovia
+Razón de mortalidad materna trienal Estelí
+Mortalidad en la niñez por Enfermedad Diarreica Aguda (EDA) Matagalpa
+Tasa estandarizada por edad de mortalidad por cáncer cérvico uterino Nueva Segovia
+Tasa estandarizada por edad de mortalidad por cáncer cérvico uterino Nueva Segovia
+Mortalidad en la niñez por Enfermedad Diarreica Aguda (EDA) Madriz
+Prevalencia de desnutrición crónica en menores de 5 años Jinotega
+Mortalidad en la niñez por Enfermedad Diarreica Aguda (EDA) Madriz
+Mortalidad en la niñez por neumonía Nueva Segovia
+Mortalidad en la niñez por neumonía Estelí
+Mortalidad en la niñez por Enfermedad Diarreica Aguda (EDA) Nueva Segovia
+NA
+Prevalencia de desnutrición crónica en menores de 5 años Nueva Segovia
+Mortalidad en la niñez por Enfermedad Diarreica Aguda (EDA) Estelí
+Tasa estandarizada por edad de mortalidad por cáncer cérvico uterino Matagalpa
+Mortalidad en la niñez por Enfermedad Diarreica Aguda (EDA) Jinotega
+Mortalidad en la niñez por Enfermedad Diarreica Aguda (EDA) Estelí
+Tasa estandarizada por edad de mortalidad por cáncer cérvico uterino Estelí
+Mortalidad en la niñez por neumonía Matagalpa
+Tasa estandarizada por edad de mortalidad por cáncer cérvico uterino Madriz
+Mortalidad en la niñez por Enfermedad Diarreica Aguda (EDA) Matagalpa
+Tasa estandarizada por edad de mortalidad por cáncer cérvico uterino Estelí
+Razón de mortalidad materna trienal Madriz
+Mortalidad en la niñez por Enfermedad Diarreica Aguda (EDA) Nueva Segovia
+Mortalidad en la niñez por neumonía Nueva Segovia
+Mortalidad en la niñez por neumonía Matagalpa
+Mortalidad en la niñez por neumonía Madriz
+Mortalidad en la niñez por Enfermedad Diarreica Aguda (EDA) Jinotega
+Número de casos","Muertes por 100.000 nacidos vivos
+Porcentaje
+Muertes por 100.000 nacidos vivos
+NA
+Muertes por 100.000 nacidos vivos
+NA
+Muertes por 100.000 nacidos vivos
+Muertes por 100.000 nacidos vivos
+Porcentaje
+Muertes por 100.000 nacidos vivos
+NA
+Por 100.000 mujeres 15 y más años
+NA
+Por 100.000 mujeres 15 y más años
+Muertes por 100.000 menores de 5 años
+Muertes por 100.000 menores de 5 años
+Muertes por 100.000 nacidos vivos
+Por 100.000 mujeres 15 y más años
+Porcentaje
+Muertes por 100.000 menores de 5 años
+Muertes por 100.000 menores de 5 años
+NA
+Por 100.000 mujeres 15 y más años
+Muertes por 100.000 nacidos vivos
+Porcentaje
+Muertes por 100.000 nacidos vivos
+Muertes por 100.000 menores de 5 años
+Por 100.000 mujeres 15 y más años
+Por 100.000 mujeres 15 y más años
+Muertes por 100.000 menores de 5 años
+Porcentaje
+Muertes por 100.000 menores de 5 años
+Muertes por 100.000 menores de 5 años
+Muertes por 100.000 menores de 5 años
+Muertes por 100.000 menores de 5 años
+NA
+Porcentaje
+Muerte
+Por 100.000 mujeres 15 y más años
+Muertes por 100.000 menores de 5 años
+Muertes por 100.000 menores de 5 años
+Por 100.000 mujeres 15 y más años
+Muertes por 100.000 menores de 5 años
+Por 100.000 mujeres 15 y más años
+Muertes por 100.000 menores de 5 años
+Por 100.000 mujeres 15 y más años
+Muertes por 100.000 nacidos vivos
+Muertes por 100.000 menores de 5 años
+Muertes por 100.000 menores de 5 años
+Muertes por 100.000 menores de 5 años
+Muertes por 100.000 menores de 5 años
+Muerte
+Número de casos",TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+"119","NI-L1161",2020,"Immediate Response of Public Health to Contain and Control Coronavirus and Mitigate its Effect on the Provision of the Service in Nicaragua","NI-L1161 - Immediate Response of Public Health to Contain and Control Coronavirus and Mitigate its Effect on the Provision of the Service in Nicaragua","+Objetivo General : Contribuir a reducir la morbilidad y la mortalidad por COVID-19 y a mitigar los demás efectos indirectos de la pandemia sobre la salud de la población nicaragüense con énfasis en los más vulnerables.","Casos de COVID-19 confirmados.
+Número de muertes por COVID-19 registradas.","Casos
+Muertes",TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+"120","NI0155",2013,NA,"NI0155 - NA","+Desarrollo integral de la niñez que vive en extrema pobreza en áreas urbanas mejorado.","Porcentaje de niños con retrasos en el desarrollo motor en los barrios beneficiarios.
+Tasa de asistencia en escuela de primaria en los barrios beneficiados por el Programa aumentada (niños de 5 a 10 años viviendo en los hogares beneficiarios).
+Porcentaje de Niños con retrasos en el desarrollo del lenguaje en los barrios beneficiarios.
+Porcentaje de niños menores de cinco años con desnutrición crónica en los barrios beneficiados.","%
+%
+%
+%",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"121","PE-L1005",2009,NA,"PE-L1005 - NA","+Uso de servicios de salud materno incrementado, y morbilidad infantil de los niños y niñas menores de 3 años de familias de la zona rural de 09 regiones más pobres reducida","Prevalencia de Infecciones Respiratorias Agudas (IRA) en menores de 3 años en el ámbito rural de 09 regiones más pobres
+Prevalencia de anemia en menores de 3 años en el ámbito rural de 09 regiones más pobres
+Proporción de partos institucionales en el ámbito rural de 09 regiones más pobres","por ciento
+por ciento
+por ciento",TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+"122","PE-L1100",2009,NA,"PE-L1100 - NA","+Contribuir a la consolidación de las reforma de programas sociales y laborales claves para la reducción de la pobreza a través del desarrollo de instrumentos necesarios para el fortalecimiento de los mismos.","Tasa de utilización de servicios de salud materno-infatil en zonas de intervención.
+Número de empresas (MYPES) formalizadas validadas por la SUNAT
+Recursos presupuestales ahorrados debido a mejor focalización.","Tasa de cumplimiento de los controles de crecimiento y desarrollo (% CRED)
+numero de MYPES
+Millones de soles",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"123","PE-L1228",2017,"Program to Create Integrated Health Networks","PE-L1228 - Program to Create Integrated Health Networks","+Calidad de los servicios en el primer nivel de atención mejorada","Porcentaje de hospitalizaciones por condiciones sensibles a la atención primaria–total
+Tasa de mortalidad por servicios de salud de baja calidad","Porcentaje
+Porcentaje",TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+"124","PN-G1001",2012,NA,"PN-G1001 - NA","+Estado de salud y nutrición de las mujeres en edad reproductiva y los niños menores de cinco años que viven en las Comarcas Kuna Yala y Emberá mejorado","Reducción de la Prevalencia de anemia en niños de 6-23 meses
+Reducción de la Mortalidad en menores de 5 años
+Reducción de la Prevalencia de desnutrición crónica en niños menores de 5 años
+Reducción de la Mortalidad neonatal
+Reducción de la Mortalidad infantil
+Reducción de la Mortalidad materna","Puntos porcentuales
+Tasa (x 1,000 nacidos vivos)
+%
+Tasa (x 1,000 nacidos vivos)
+Tasa (x 1,000 nacidos vivos)
+Razón (x 100,000 nacidos vivos)",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"125","PN-L1068",2008,"Health Equity Improvement and Services Strengthening Program","PN-L1068 - Health Equity Improvement and Services Strengthening Program","+Reducción de las Muertes maternas en comarcas indígenas y su área de influencia
++Reducción de las muertes de niños menores de cinco años en comarcas indígenas y su área de influencia
++Reducción de la desnutrición crónica en niños menores de 5 años en comarcas indígenas y su área de influencia","Tasa de mortalidad materna en comarcas indígenas y su área de influencia
+Tasa de mortalidad infantil en menores de cinco años en comarcas indígenas y su área de influencia
+Prevalencia de desnutrición crónica en niños menores de 5 años en comarcas indígenas y su área de influencia","Muertes por 1000 nacidos vivos
+Muertes por 1000 nacidos vivos
+%",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+"126","PN-L1105",2020,NA,"PN-L1105 - NA","+Contribuir a la reducción de la pobreza y pobreza extrema en el país y aumentar la capacidad del sistema de protección social para promover la acumulación de capital humano
++Disminución de brechas de cobertura y calidad de servicios integrales de primera infancia
++Contribuir a la reducción de la pobreza y pobreza extrema
++Aumentar la capacidad del sistema de proteción social para promover la acumulación del capital humano
++Mejora de la focalización y eficiencia distributiva del gasto social en los PTMC","Incidencia de pobreza extrema
+Incidencia de pobreza
+Porcentaje de niños en los COIF que tienen puntaje ASQ-3 por debajo de un umbral crítico
+Niños en los CAIPI que tienen un desarrollo en resolución de problemas (cognición) no adecuado para su edad, lo que equivale a un puntaje
+del ASQ-3 por debajo del umbral crítico para la población de referencia (US)
+Incidencia pobreza extrema
+Niños en los COIF que tienen puntaje ASQ-3 por debajo de un umbral crítico
+Incidencia pobreza general
+Incidencia pobreza general
+Porcentaje de niños en los COIF que tienen valor z talla para la edad por debajo de un umbral crítico
+Niños en los COIF que tienen valor z talla para la edad por debajo de un umbral crítico
+Incidencia pobreza extrema","%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+"127","PN-L1115",2015,"Integrated Health Service Networks Strengthening Program","PN-L1115 - Integrated Health Service Networks Strengthening Program","+Contribuir a la reducción de la mortalidad infantil a través de una mayor cobertura y calidad de los servicios de salud
++Contribuir a la reducción de la mortalidad materna a través de una mayor cobertura y calidad de los servicios de salud
++Mejorar las condiciones de salud y nutrición de la población en situación de pobreza y pobreza extrema
++Contribuir a la reducción de las enfermedades no transmisibles a través de una mayor cobertura y calidad de los servicios de salud","Tasa nacional de mortalidad en <5 años
+Tasa de mortalidad en <5 años en la comarca Ngabe Buglé
+Tasa de mortalidad materna en la comarca Ngabe Buglé
+Razón de mortalidad materna en la comarca Ngabe Buglé
+Prevalencia de sobrepeso y obesidad en mujeres embarazadas (índice de masa corporal) en la comarca Emberá Wouaan
+Prevalencia de sobrepeso y obesidad en mujeres embarazadas (índice de masa corporal) en la comarca Ngabe Buglé
+Tasa nacional de mortalidad prematura (<70 años) por diabetes mellitus
+Tasa nacional de mortalidad materna
+Prevalencia de sobrepeso y obesidad en mujeres embarazadas (medidos por índice de masa corporal) en la comarca Ngabe Buglé
+Prevalencia de sobrepeso y obesidad en mujeres embarazadas (medidos por índice de masa corporal) en la comarca Emberá Wouaan
+Prevalencia de desnutrición crónica en niños <5 años en las comarcas Guna Yala y Emberá Wounaan
+Prevalencia de sobrepeso y obesidad en mujeres embarazadas (medidos por índice de masa corporal) en la comarca Emberá Wounaan
+Razón nacional de mortalidad materna","Muertes infantiles
+Muertes infantiles
+Muertes maternas
+Muertes maternas
+%
+%
+Muertes prematuras
+Muertes maternas
+%
+%
+%
+%
+Muertes maternas",TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+"128","PN-L1160",2019,NA,"PN-L1160 - NA","+El objetivo general del Programa es apoyar la inclusión social de las personas con discapacidad (PcD) a través del aumento en la capacidad del Estado para identificarlos y ponderar sus necesidades, así como promover mejoras en la cobertura y calidad de los servicios de salud, educación y de soporte a la autonomía personal que reciben.","Ratio de asistencia niños con discapacidad/asistencia niños sin discapacidad
+Proporción de PcD certificadas a nivel nacional
+Proporción de PcD que reciben rehabilitación efectiva en MINSA
+Porcentaje de niños con diagnóstico de discapacidad auditiva en MINSA","ratio
+%
+%
+%",TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+"129","PN-L1170",2020,"Immediate Public Health Response to Contain and Control Coronavirus and Mitigate its Impact on Services","PN-L1170 - Immediate Public Health Response to Contain and Control Coronavirus and Mitigate its Impact on Services","+Contribuir a reducir la mortalidad y la morbilidad causadas por la COVID-19 y mitigar los efectos indirectos de la pandemia sobre la salud.","Número de muertes provocadas por COVID 19 evitadas
+Número de casos de COVID-19 evitados
+Promedio de pacientes hospitalizados por COVID-19 durante la semana previa al reporte","Número de muertes
+Número de casos
+Número de pacientes",TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+"130","PN-L1177",2022,NA,"PN-L1177 - NA","+Reducir el nivel de vulnerabilidad social de la población panameña","Brecha de ingresos per cápita promedio de hogares de jefatura femenina beneficiarios de la RdO que reciben el paquete de inclusión productiva e ingresos per cápita promedio de hogares de jefatura masculina en los mismos distritos
+Calidad del ambiente del hogar en hogares beneficiarios de Cuidarte (con respecto a hogares en el grupo de control) con base al puntaje de Indicadores de Cuidado Familiar (Family Care Indicators, FCI)","Porcentaje
+Desviaciones estándar",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"131","PR-L1051",2011,NA,"PR-L1051 - NA","+Mejorar los niveles de desarrollo cognitivo, emocional y físico, de los niños/as menores de 5 años, detectando precozmente trastornos en el desarrollo y facilitando el acceso oportuno a intervenciones para su tratamiento.","Niños/as con rezagos en municipios intervenidos.","% niños y niñas",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+"132","PR-L1167",2017,"Program to Strengthen Integrated and Comprehensive Health Services Networks based on Primary Health Care","PR-L1167 - Program to Strengthen Integrated and Comprehensive Health Services Networks based on Primary Health Care","+Contribuir a la mejora de las condiciones de salud de la población más vulnerable de Paraguay, a través del fortalecimiento de las RIISS basadas en Atención Primaria de Salud (APS).","Tasa de mortalidad por cardiopatía isquémica - Hombres
+Tasa de mortalidad prematura por Diabetes Mellitus
+(DM) - Hombres
+Tasa de Mortalidad neonatal
+Tasa de mortalidad prematura por enfermedades cerebrovasculares – Mujeres
+Tasa de mortalidad prematura por Diabetes Mellitus (DM) - MUJERES
+Tasa de mortalidad por cardiopatía isquémica - Mujeres
+Tasa de mortalidad prematura por enfermedades cerebrovasculares - Hombres
+Razón de mortalidad materna (RMM)","/100.000 hab
+/100.000 hab
+/1.000 nacidos vivos
+/100.000 hab
+/100.000 hab
+/100.000 hab
+/100.000 hab
+/100.000 nacidos vivos",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"133","PR-L1190",2023,"Strengthening of the San Estanislao Hospital Services Network","PR-L1190 - Strengthening of the San Estanislao Hospital Services Network","+Mejorar el estado de salud de la población priorizada por medio de la extensión de la accesibilidad y cobertura efectiva de servicios de salud de calidad","Años de vida ajustados por discapacidad (AVADs) evitados
+Número de muertes maternas directas en hospitales del DSP en los últimos tres años
+Riesgo de muerte prematura por diabetes (Masculino)
+Riesgo de muerte prematura por diabetes (Femenino)
+Riesgo de muerte prematura por diabetes (Total)","AVAD
+#
+Por cada 100.000 personas
+Por cada 100.000 personas
+Por cada 100.000 personas",TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+"134","PR0125",2005,NA,"PR0125 - NA","+Inversión social dirigida a sectores de la población en extrema pobreza y vulnerabilidad mejorada","Mortalidad infantil.
+Retención en el quinto grado de la educación escolar básica.","%
+%",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"135","RG-X1192",NA,NA,"RG-X1192 - NA","+Componente 1. Estrategia de cambio de comportamiento para mejorar las prácticas de alimentación
++Componente 2. Evaluación de impacto
++Componente 3. Comunicación, diseminación y aprendizaje","NA
+NA
+NA","NA
+NA
+NA",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"136","SU-L1054",2017,"Health Services Improvement Project","SU-L1054 - Health Services Improvement Project","+Reduction of burden of disease in Suriname","Autochtonous malaria cases
+Ambulatory care sensitive conditions hospitalizations due to diabetes","Cases Rate per 1,000 population per annum
+Hospitalizations Rate per 1,000 per annum",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"137","SU-L1063",2017,NA,"SU-L1063 - NA","+Contribute to ensuring minimum consumption levels for vulnerable groups amid Suriname’s socio-economic crisis and strengthen the country’s social safety net.","Per-capita consumption in vulnerable and poor households vs per-capita consumption in non-vulnerable households
+Per-capita consumption in vulnerable and poor households vs per-capita consumption in non-vulnerable households
+Per-capita consumption in vulnerable and poor households vs per-capita consumption in non-vulnerable households","US$
+SRD (Montly per capita consumption)
+NA",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"138","TT-L1039",2014,"Health Services Support Program","TT-L1039 - Health Services Support Program","+Lifestyle diseases management among adults improved
++Healthier weight status among primary school age children (5-13 years) achieved","Adult female mortality rate per 100,000 population for six non-communicable diseases (ischemic heart disease, cerebrovascular disease, hypertensive diseases, cancers, diabetes, chronic respiratory illness)
+Adult male mortality rate per 100,000 population for six non-communicable diseases (ischemic heart disease, cerebrovascular disease, hypertensive diseases, cancers, diabetes, chronic respiratory illness)
+Overweight/obese rate in primary school age children (5-13 years)","adult female mortality rate per 100000 population
+adult male mortality rate per 100,000 population
+%",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"139","TT-L1060",NA,NA,"TT-L1060 - NA","+To contribute to ensuring minimum levels of quality of life for vulnerable persons amid the crisis caused by COVID-19.","NA","NA",FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+"140","UR-L1046",2010,NA,"UR-L1046 - NA","+Condiciones de vida de niños, niñas, adolescentes y sus familias, especialmente de aquellos que viven en condiciones de mayor vulnerabilidad social mejoradas en forma sostenible.","Niños, niñas y adolescentes menores de 18 años que viven en hogares vulnerables en zonas de intervención del Programa.
+Brecha de NBI entre hogares con menores de edad y hogares sin menores de edad en las Áreas Territoriales de Infamilia.","%
+cociente",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"141","UR-L1110",2016,NA,"UR-L1110 - NA","+Contribuir a mejorar el acceso y la calidad del cuidado de las personas en situación de dependencia en el marco del Sistema Nacional Integrado de Cuidados.","Niños en nuevos centros CAIF con puntaje ASQ-3 por debajo de un umbral crítico.
+Centros CAIF nuevos con puntaje ITERS-R entre 5 y 7.
+Brecha en la carga global de trabajo entre mujeres y hombres de Q1.
+Carga de trabajo no remunerado de cuidado infantil.","% niños en nuevos centros CAIF
+% centros CAIF
+hs semanales de trabajo
+hs semanales de cuidado infantil",FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+"142","UR-L1161",2018,"Program to Strengthen the Management of ASSE","UR-L1161 - Program to Strengthen the Management of ASSE","+Mejorar la efectividad y eficiencia de la producción de servicios públicos de salud","Estadía hospitalaria promedio en terapia intensiva de los hospitales que participan en el Piloto de Mejora Continua
+Mujeres captadas durante el primer trimestre de embarazo de los departamentos que participan en el Piloto de Mejora Continua
+Tiempo de espera promedio en salas de emergencia
+Ausentismo promedio de los usuarios a citas agendadas en policlínicas que participan en el Piloto de Mejora Continua","Días
+%
+minutos
+%",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+"143","UR-L1172",2020,NA,"UR-L1172 - NA","+Contribuir a asegurar niveles mínimos de calidad de vida de las personas vulnerables frente a la crisis causada por el COVID-19","Hogares protegidos de caer por debajo de la línea de pobreza
+Retención de empleo formal en el sector privado","Puntos porcentuales
+Puntos prcentuales",FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+"144","VE-L1017",2007,NA,"VE-L1017 - NA","+Contribuir a incrementar el acceso a la educación formal y de los servicios de salud de los niños y Jóvenes pertenecientes al sistema de Orquestas.","Matricula del Sistema de Orquestas","Alumnos",TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+"145",NA,NA,NA,"NA - NA","+NA","NA","NA",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
